@@ -1,0 +1,1001 @@
+students_id,age,gender,Strand,GWA,Math_grade,English_grade,science_grade,History_grade,favorite_subject,career_interest,extracurricular_activities,socio-economic_status,preferred_work_environment
+1,16,Male,ABM,92.09,76.09,94.72,83.33,92.66,Math,Business,Sports,Middle-income,Field
+2,16,Male,TVL,86.12,90.02,87.34,88.65,89.46,History,Education,NSTP,Low-income,Office
+3,18,Male,GAS,86.0,94.8,87.11,93.63,82.81,Math,Farming and Forestry,Debate,Middle-income,Field
+4,17,Male,ABM,76.89,85.98,87.25,84.48,83.34,English,Farming and Forestry,Music,High-income,Field
+5,17,Female,ABM,77.04,87.89,86.93,83.4,93.82,Science,Engineering,NSTP,Low-income,Office
+6,17,Male,HUMSS,90.88,76.46,79.62,89.75,88.05,Arts,Education,NSTP,Low-income,Office
+7,16,Male,ABM,77.43,88.43,75.52,75.43,82.21,Science,Engineering,NSTP,Low-income,Field
+8,16,Male,GAS,76.23,80.01,76.59,78.78,84.45,History,Education,Debate,Middle-income,Office
+9,19,Male,STEM,90.62,78.95,90.6,75.44,94.42,Math,Education,Music,High-income,Office
+10,16,Male,TVL,79.45,86.61,77.68,91.04,78.24,Math,Science and Technology,Sports,Low-income,Field
+11,16,Male,GAS,78.96,94.03,91.92,91.7,79.14,Science,Science and Technology,None,High-income,Remote
+12,16,Male,GAS,83.01,82.14,84.38,85.39,88.81,English,Health and Medicine,Music,Middle-income,Office
+13,17,Female,TVL,88.73,88.43,87.99,81.72,76.72,Arts,Engineering,Music,Middle-income,Office
+14,17,Male,TVL,93.75,79.69,78.68,86.57,84.66,English,Arts,Music,Middle-income,Remote
+15,16,Male,ABM,76.68,80.7,82.75,88.12,78.47,Science,Science and Technology,Music,Middle-income,Office
+16,17,Female,GAS,86.72,76.4,84.48,90.74,78.13,Science,Business,NSTP,Low-income,Remote
+17,19,Male,ABM,93.35,78.87,78.28,84.72,84.84,Arts,Farming and Forestry,Sports,Low-income,Field
+18,17,Male,HUMSS,76.5,84.72,79.53,88.32,90.87,Science,Arts,Debate,Low-income,Field
+19,19,Female,ABM,94.94,81.57,83.17,85.6,93.86,Math,Business,NSTP,Low-income,Office
+20,18,Male,HUMSS,78.96,88.19,94.38,85.97,84.87,Science,Engineering,Debate,Low-income,Office
+21,16,Male,STEM,87.92,88.87,93.51,84.16,79.69,History,Science and Technology,Debate,High-income,Remote
+22,17,Male,GAS,91.19,78.05,94.0,86.35,86.14,Arts,Engineering,Debate,High-income,Field
+23,19,Male,HUMSS,76.84,86.34,79.45,92.97,94.99,English,Health and Medicine,Sports,Middle-income,Remote
+24,18,Male,STEM,91.95,91.15,88.43,81.13,82.18,Science,Farming and Forestry,Music,High-income,Office
+25,18,Female,TVL,91.18,94.17,79.06,90.79,80.22,English,Arts,None,High-income,Office
+26,17,Male,ABM,77.45,78.37,79.09,79.54,88.54,English,Farming and Forestry,None,High-income,Field
+27,17,Female,STEM,93.85,81.26,78.54,82.44,78.49,Math,Health and Medicine,Music,Low-income,Remote
+28,18,Male,HUMSS,76.01,90.71,94.09,80.76,92.19,History,Education,Music,High-income,Remote
+29,16,Male,GAS,93.48,89.24,83.79,91.91,85.07,Arts,Education,Sports,Middle-income,Office
+30,16,Female,TVL,83.66,87.82,87.34,77.97,91.14,English,Farming and Forestry,None,Low-income,Field
+31,19,Male,TVL,89.49,80.53,88.76,80.69,81.75,Math,Science and Technology,NSTP,Middle-income,Remote
+32,16,Male,STEM,84.92,82.19,92.34,94.12,77.28,Science,Health and Medicine,Sports,Middle-income,Office
+33,18,Female,STEM,82.65,88.59,92.75,87.37,79.53,English,Science and Technology,None,High-income,Office
+34,18,Male,ABM,83.53,81.63,83.55,78.22,86.24,English,Engineering,NSTP,Low-income,Field
+35,18,Male,TVL,82.08,84.6,90.52,85.71,84.73,Science,Arts,Sports,Middle-income,Field
+36,16,Female,TVL,93.17,83.91,87.16,78.65,94.87,Science,Education,None,High-income,Field
+37,19,Female,ABM,80.5,90.5,91.49,78.51,90.7,History,Health and Medicine,NSTP,Middle-income,Remote
+38,16,Female,GAS,83.92,84.74,89.4,89.16,90.39,Math,Science and Technology,Debate,High-income,Remote
+39,19,Male,ABM,77.97,77.18,82.88,93.09,90.4,Science,Education,None,Low-income,Field
+40,16,Female,HUMSS,87.28,87.91,93.78,90.89,86.14,Science,Science and Technology,NSTP,Low-income,Field
+41,18,Male,HUMSS,87.34,76.64,86.44,78.23,92.93,History,Health and Medicine,Sports,Middle-income,Remote
+42,18,Male,STEM,87.95,80.61,85.72,77.34,92.07,Arts,Education,NSTP,Low-income,Field
+43,17,Female,ABM,84.98,91.53,87.83,94.88,92.47,History,Education,Sports,High-income,Field
+44,16,Female,ABM,92.66,92.83,89.08,86.49,87.09,English,Science and Technology,NSTP,Middle-income,Remote
+45,16,Male,STEM,84.58,78.93,75.77,83.82,77.08,Science,Business,Music,Middle-income,Remote
+46,17,Male,GAS,76.75,89.67,77.19,82.39,76.01,Arts,Arts,None,Low-income,Remote
+47,18,Female,ABM,82.66,87.53,84.14,79.1,93.93,Math,Arts,Sports,Middle-income,Remote
+48,16,Female,TVL,83.38,89.55,92.56,89.14,90.98,Math,Engineering,NSTP,Middle-income,Office
+49,17,Female,ABM,87.85,92.84,92.56,88.31,94.25,Arts,Arts,Sports,Low-income,Office
+50,16,Male,GAS,90.94,91.99,79.91,94.56,90.12,Math,Science and Technology,Debate,Low-income,Remote
+51,19,Female,ABM,79.98,87.63,85.76,77.96,94.49,Science,Arts,Sports,Low-income,Office
+52,18,Female,TVL,94.88,91.25,94.68,83.97,90.63,Math,Science and Technology,None,Low-income,Office
+53,19,Male,HUMSS,85.87,86.58,75.79,94.51,87.19,Science,Farming and Forestry,Debate,High-income,Remote
+54,18,Male,HUMSS,75.39,90.38,82.75,85.67,92.17,Science,Engineering,None,Low-income,Office
+55,17,Female,GAS,82.65,79.26,90.3,77.43,77.04,Science,Health and Medicine,NSTP,Low-income,Field
+56,18,Male,GAS,89.27,75.73,94.25,75.5,86.25,Math,Science and Technology,Music,Middle-income,Office
+57,18,Male,TVL,84.59,80.21,78.8,93.62,85.15,Science,Education,None,High-income,Field
+58,17,Male,HUMSS,90.63,92.88,83.79,90.37,78.34,History,Science and Technology,Sports,High-income,Remote
+59,18,Female,HUMSS,81.88,85.79,92.69,93.96,77.36,History,Farming and Forestry,Music,High-income,Office
+60,16,Female,HUMSS,86.31,88.08,90.47,93.56,79.11,Science,Farming and Forestry,Sports,Low-income,Office
+61,17,Female,HUMSS,81.43,77.97,80.72,78.12,82.23,Science,Science and Technology,Debate,Low-income,Remote
+62,17,Female,TVL,80.41,82.85,78.33,94.4,89.57,History,Business,Debate,High-income,Remote
+63,17,Female,GAS,75.52,92.83,80.89,85.92,89.16,Math,Business,Debate,Low-income,Remote
+64,19,Female,GAS,86.94,86.79,93.38,85.15,90.24,Arts,Health and Medicine,NSTP,Low-income,Field
+65,19,Male,STEM,75.59,92.14,88.8,87.94,84.97,Arts,Arts,Debate,Low-income,Field
+66,18,Male,GAS,91.21,77.68,93.07,80.91,92.41,English,Business,None,Low-income,Remote
+67,17,Male,HUMSS,80.62,85.02,84.27,92.92,78.09,Science,Farming and Forestry,Sports,Low-income,Remote
+68,18,Female,ABM,91.17,76.81,87.92,94.39,82.27,Science,Business,Debate,Middle-income,Remote
+69,16,Female,HUMSS,84.43,82.28,76.81,90.08,91.38,Science,Science and Technology,None,Low-income,Field
+70,17,Male,HUMSS,82.15,75.21,85.01,94.88,77.46,Arts,Engineering,None,Middle-income,Remote
+71,16,Female,GAS,86.68,79.78,78.6,88.34,79.04,Science,Arts,Debate,Low-income,Remote
+72,18,Female,STEM,79.66,94.28,86.71,90.99,94.39,History,Arts,None,Middle-income,Remote
+73,19,Female,TVL,78.19,94.64,92.89,89.57,90.38,Science,Engineering,NSTP,Middle-income,Field
+74,18,Female,ABM,79.96,88.68,85.93,93.45,75.13,English,Science and Technology,Debate,High-income,Office
+75,16,Female,ABM,79.82,90.14,82.86,81.77,91.7,English,Arts,Sports,High-income,Office
+76,17,Male,STEM,85.67,77.81,81.47,77.25,84.47,History,Business,NSTP,Low-income,Office
+77,18,Female,HUMSS,90.82,78.18,75.5,84.58,80.74,Arts,Engineering,Music,Middle-income,Office
+78,17,Female,TVL,89.74,86.33,84.07,75.8,78.43,Science,Farming and Forestry,Sports,Low-income,Office
+79,19,Female,TVL,90.28,86.32,92.93,88.56,80.32,English,Arts,Sports,High-income,Office
+80,19,Female,TVL,93.96,92.44,92.92,77.34,89.3,Arts,Business,Sports,Middle-income,Remote
+81,19,Female,GAS,86.51,77.92,92.65,75.5,83.3,Math,Arts,Music,Middle-income,Office
+82,17,Male,HUMSS,94.65,89.64,76.8,87.35,87.59,English,Business,Sports,High-income,Office
+83,18,Female,ABM,82.77,93.78,81.48,79.41,79.91,Arts,Health and Medicine,None,Low-income,Office
+84,17,Male,ABM,93.7,75.81,87.97,82.15,90.06,Arts,Health and Medicine,Sports,High-income,Field
+85,17,Male,HUMSS,94.83,90.23,89.23,81.53,85.59,Science,Engineering,NSTP,Low-income,Office
+86,18,Male,ABM,78.47,79.63,78.28,87.16,90.74,Arts,Farming and Forestry,Music,Low-income,Field
+87,19,Male,GAS,79.73,80.29,89.67,78.9,77.76,Arts,Arts,Debate,Middle-income,Office
+88,19,Female,TVL,81.36,79.68,76.82,85.53,83.58,Arts,Health and Medicine,Music,High-income,Office
+89,18,Male,ABM,89.76,88.37,89.12,90.63,93.36,History,Arts,Debate,Low-income,Office
+90,17,Female,GAS,82.18,85.36,87.68,90.34,92.96,History,Science and Technology,Sports,Middle-income,Remote
+91,17,Male,TVL,86.83,90.83,76.71,78.91,94.04,Arts,Engineering,Debate,High-income,Field
+92,19,Male,HUMSS,89.07,82.76,89.15,76.67,85.32,Science,Engineering,None,High-income,Field
+93,16,Female,HUMSS,82.03,93.36,89.54,91.99,88.64,Arts,Farming and Forestry,Debate,Middle-income,Remote
+94,16,Male,GAS,86.35,92.63,94.5,88.54,93.87,Math,Business,Debate,Low-income,Field
+95,16,Female,GAS,77.84,75.8,87.24,94.15,83.85,Arts,Farming and Forestry,NSTP,Middle-income,Field
+96,17,Female,GAS,93.97,87.97,78.2,94.52,90.4,Arts,Science and Technology,None,High-income,Field
+97,17,Female,ABM,91.73,77.06,86.01,82.89,89.35,Math,Business,Debate,Middle-income,Remote
+98,19,Male,HUMSS,91.21,94.37,75.88,84.81,85.35,English,Business,Debate,Middle-income,Office
+99,16,Female,ABM,94.41,87.67,78.42,87.06,76.39,History,Engineering,Sports,High-income,Office
+100,19,Female,ABM,85.84,80.47,81.7,85.23,81.77,History,Farming and Forestry,Music,Middle-income,Remote
+101,19,Female,TVL,78.51,89.84,92.43,76.12,83.03,Science,Science and Technology,Music,High-income,Field
+102,19,Male,GAS,75.76,86.57,92.25,88.34,90.45,History,Business,Sports,Low-income,Field
+103,18,Male,ABM,76.12,86.4,78.24,82.95,83.68,Science,Farming and Forestry,Debate,High-income,Field
+104,16,Male,TVL,87.03,82.53,77.89,89.32,82.87,English,Arts,Debate,Middle-income,Remote
+105,16,Female,STEM,75.4,82.57,90.38,83.55,75.74,Arts,Education,NSTP,Middle-income,Field
+106,18,Male,TVL,84.56,86.75,76.03,82.72,93.45,Arts,Science and Technology,Music,High-income,Field
+107,18,Male,STEM,81.63,92.96,81.16,75.24,78.02,English,Business,Sports,High-income,Field
+108,16,Female,STEM,87.28,76.56,89.6,81.9,86.49,Arts,Business,NSTP,High-income,Remote
+109,18,Female,STEM,91.13,80.03,94.22,81.16,94.55,English,Engineering,Debate,Low-income,Field
+110,19,Male,STEM,81.82,94.45,80.78,83.91,94.6,Arts,Farming and Forestry,NSTP,Low-income,Remote
+111,17,Female,GAS,78.55,79.46,78.61,86.22,90.98,History,Health and Medicine,Debate,Middle-income,Office
+112,19,Male,ABM,91.05,83.12,92.97,79.31,92.52,History,Engineering,NSTP,Middle-income,Remote
+113,16,Female,ABM,92.36,91.34,94.21,92.76,94.45,Arts,Health and Medicine,Debate,High-income,Office
+114,18,Male,STEM,76.19,81.9,75.07,89.83,83.39,Math,Business,NSTP,High-income,Office
+115,17,Female,ABM,77.95,90.85,90.31,83.31,92.72,English,Arts,Debate,Middle-income,Remote
+116,16,Male,STEM,89.09,92.74,75.24,83.85,89.02,Science,Farming and Forestry,Sports,Middle-income,Field
+117,18,Male,ABM,77.83,75.13,84.95,78.28,92.47,Arts,Business,NSTP,Low-income,Remote
+118,17,Female,TVL,77.22,92.64,84.97,89.56,89.43,Science,Arts,NSTP,Low-income,Office
+119,17,Female,GAS,85.53,83.8,91.15,92.95,81.27,Science,Business,Music,Low-income,Field
+120,18,Female,HUMSS,82.3,79.6,87.16,89.57,81.88,Science,Engineering,NSTP,High-income,Remote
+121,17,Female,STEM,76.45,85.29,84.87,83.28,91.54,Math,Science and Technology,Sports,Low-income,Field
+122,16,Male,TVL,89.09,80.62,79.34,91.71,93.0,Math,Farming and Forestry,Sports,Middle-income,Field
+123,18,Male,TVL,88.24,78.0,88.19,86.96,87.21,History,Health and Medicine,Music,High-income,Remote
+124,19,Male,GAS,86.72,78.15,84.07,77.87,77.94,English,Health and Medicine,Debate,High-income,Field
+125,16,Female,GAS,81.73,87.04,83.84,81.06,83.08,Arts,Health and Medicine,Sports,Low-income,Remote
+126,16,Male,STEM,81.45,91.34,87.02,94.77,87.88,Arts,Science and Technology,None,Low-income,Office
+127,18,Male,STEM,94.52,88.22,75.13,85.51,92.75,Arts,Engineering,None,Middle-income,Remote
+128,18,Male,TVL,89.65,83.29,92.64,81.71,87.49,Arts,Farming and Forestry,Debate,High-income,Field
+129,17,Male,TVL,83.74,81.6,80.56,93.66,87.36,English,Farming and Forestry,Debate,Low-income,Remote
+130,16,Male,GAS,87.79,77.27,87.57,86.81,83.84,Arts,Farming and Forestry,Music,Low-income,Field
+131,17,Female,STEM,84.74,88.5,91.4,82.52,81.91,Arts,Education,Music,Low-income,Office
+132,16,Female,STEM,81.35,84.58,79.15,75.13,91.24,English,Farming and Forestry,NSTP,High-income,Office
+133,16,Female,TVL,89.14,86.82,78.7,87.78,87.98,History,Business,None,Middle-income,Field
+134,19,Female,HUMSS,86.24,87.95,76.1,80.47,90.51,Math,Health and Medicine,None,High-income,Field
+135,16,Male,TVL,92.79,83.22,81.98,78.5,92.62,Arts,Farming and Forestry,None,Middle-income,Remote
+136,17,Female,HUMSS,87.27,79.87,77.91,84.24,76.69,Math,Farming and Forestry,Debate,Low-income,Field
+137,17,Female,STEM,82.14,77.56,75.65,86.36,85.75,Math,Science and Technology,Sports,Low-income,Remote
+138,19,Female,TVL,88.31,86.85,86.56,93.3,82.8,Arts,Science and Technology,None,Middle-income,Field
+139,17,Male,GAS,91.29,77.69,87.07,78.99,89.38,History,Arts,Music,Low-income,Office
+140,18,Male,ABM,82.57,85.25,81.62,91.65,92.6,Science,Health and Medicine,Debate,Middle-income,Remote
+141,19,Male,STEM,89.68,92.82,76.75,80.79,85.41,Science,Education,Sports,Middle-income,Remote
+142,17,Male,STEM,80.89,77.94,77.18,84.81,85.82,Arts,Arts,None,High-income,Office
+143,17,Male,TVL,78.55,78.33,94.87,91.46,79.27,English,Business,Debate,Middle-income,Field
+144,18,Male,ABM,75.04,93.45,78.23,81.04,85.23,English,Business,None,Middle-income,Field
+145,19,Female,ABM,89.04,85.33,80.69,86.7,81.25,History,Arts,Debate,Low-income,Office
+146,18,Female,ABM,86.46,83.11,88.22,84.88,81.81,Arts,Science and Technology,None,Low-income,Remote
+147,19,Female,TVL,92.02,94.38,89.0,89.8,87.71,English,Farming and Forestry,None,Middle-income,Office
+148,19,Female,TVL,90.42,87.75,86.45,79.49,75.47,Math,Health and Medicine,Sports,High-income,Office
+149,16,Female,HUMSS,86.35,92.57,86.24,90.82,92.81,Arts,Health and Medicine,Sports,Middle-income,Field
+150,17,Female,HUMSS,78.64,89.56,94.33,78.08,85.8,Arts,Health and Medicine,Music,Middle-income,Field
+151,17,Female,HUMSS,81.36,91.43,89.99,81.0,80.17,Science,Education,Debate,Low-income,Remote
+152,16,Male,GAS,91.18,93.95,82.2,87.81,91.64,Science,Arts,Sports,Middle-income,Office
+153,18,Male,STEM,87.23,79.33,75.72,87.73,81.08,Arts,Education,Debate,Middle-income,Office
+154,16,Female,HUMSS,87.79,87.13,90.37,77.48,83.45,Math,Arts,Music,Middle-income,Remote
+155,17,Female,GAS,77.08,84.43,81.46,88.32,85.11,English,Farming and Forestry,Sports,Low-income,Field
+156,17,Male,GAS,84.92,84.63,92.95,80.75,89.64,Math,Farming and Forestry,Sports,Low-income,Field
+157,16,Female,TVL,81.62,79.39,91.41,78.59,91.83,Science,Education,Debate,Low-income,Office
+158,16,Female,ABM,76.56,83.22,90.17,93.14,80.2,English,Business,Sports,Middle-income,Field
+159,16,Female,ABM,81.94,77.85,91.87,87.9,85.15,History,Arts,Music,Low-income,Field
+160,17,Male,HUMSS,81.39,86.65,76.3,75.57,77.48,Arts,Education,Music,High-income,Remote
+161,16,Male,STEM,87.72,90.35,84.42,90.29,90.13,Science,Engineering,NSTP,Middle-income,Office
+162,16,Female,STEM,94.26,87.46,77.44,84.86,93.83,English,Education,Sports,High-income,Remote
+163,18,Male,STEM,91.43,85.22,92.19,94.41,83.97,Science,Arts,Debate,Low-income,Field
+164,16,Male,GAS,88.4,78.35,81.58,86.98,86.45,History,Education,Music,High-income,Office
+165,17,Male,GAS,89.59,88.71,83.28,82.24,75.1,History,Arts,None,Middle-income,Remote
+166,18,Female,GAS,81.71,93.45,79.2,84.61,81.78,Science,Health and Medicine,Music,Low-income,Field
+167,19,Male,TVL,75.23,86.93,79.18,83.72,79.72,Math,Health and Medicine,NSTP,High-income,Remote
+168,17,Male,GAS,79.19,76.38,76.16,80.16,89.92,Math,Arts,NSTP,Middle-income,Field
+169,17,Female,STEM,88.86,82.56,86.43,88.72,86.63,Math,Arts,NSTP,Low-income,Field
+170,19,Female,STEM,82.01,77.64,94.59,94.49,89.29,Arts,Science and Technology,None,High-income,Office
+171,17,Female,ABM,90.74,75.33,85.58,91.37,93.75,Arts,Education,NSTP,Middle-income,Remote
+172,19,Male,STEM,89.41,85.45,76.75,82.46,88.31,History,Farming and Forestry,Sports,Middle-income,Remote
+173,19,Male,GAS,75.96,93.19,89.48,89.66,91.89,Math,Arts,Music,High-income,Field
+174,17,Female,GAS,83.76,88.69,87.1,75.35,79.68,History,Farming and Forestry,Sports,Low-income,Field
+175,16,Female,HUMSS,83.39,91.53,90.76,80.19,80.98,Science,Business,Sports,Low-income,Remote
+176,16,Male,TVL,78.33,87.11,89.14,86.63,88.34,Arts,Engineering,Music,Middle-income,Office
+177,19,Male,STEM,83.28,78.55,83.54,77.92,91.3,Science,Business,NSTP,High-income,Remote
+178,18,Female,TVL,92.64,93.03,91.96,84.22,86.46,Arts,Arts,Debate,High-income,Office
+179,19,Male,STEM,82.02,87.0,80.19,88.87,77.8,English,Arts,None,Middle-income,Remote
+180,19,Female,ABM,82.51,92.56,86.5,82.15,82.55,English,Health and Medicine,None,Middle-income,Field
+181,19,Male,ABM,91.58,85.63,87.46,76.06,89.75,History,Education,Music,High-income,Remote
+182,16,Female,TVL,90.77,90.05,93.54,82.22,77.1,History,Farming and Forestry,Sports,High-income,Remote
+183,16,Male,GAS,86.56,76.86,87.29,87.72,85.33,Arts,Science and Technology,Sports,Low-income,Field
+184,16,Female,HUMSS,90.16,88.19,84.93,94.1,78.85,History,Arts,NSTP,Low-income,Field
+185,19,Male,STEM,79.51,93.04,89.58,75.97,90.57,English,Engineering,NSTP,High-income,Office
+186,18,Female,STEM,84.03,85.79,84.95,80.83,84.09,Arts,Arts,NSTP,Middle-income,Field
+187,16,Male,HUMSS,90.98,75.02,91.16,87.78,77.93,Math,Engineering,NSTP,High-income,Remote
+188,17,Female,TVL,75.67,93.75,92.67,76.54,83.51,Math,Education,None,High-income,Remote
+189,17,Female,TVL,75.4,88.57,79.65,78.88,83.24,History,Arts,Music,Middle-income,Remote
+190,17,Female,STEM,80.22,83.63,80.81,87.56,76.84,English,Education,Music,High-income,Office
+191,19,Female,ABM,77.09,83.41,78.87,90.29,83.5,Science,Farming and Forestry,None,Middle-income,Office
+192,17,Female,HUMSS,81.84,92.5,77.36,86.98,77.6,English,Education,Debate,Middle-income,Field
+193,19,Male,STEM,92.76,88.95,84.3,78.34,79.3,Science,Engineering,None,High-income,Office
+194,17,Female,ABM,78.22,83.58,90.93,81.45,76.56,Arts,Farming and Forestry,NSTP,High-income,Remote
+195,18,Male,TVL,76.5,93.77,89.75,81.32,88.54,English,Science and Technology,NSTP,High-income,Remote
+196,19,Female,ABM,93.84,84.64,79.15,91.9,83.06,Math,Arts,Sports,High-income,Office
+197,17,Male,GAS,94.56,90.37,87.31,91.0,86.18,Science,Farming and Forestry,None,Middle-income,Remote
+198,16,Female,STEM,81.76,82.01,83.29,80.43,90.58,Arts,Health and Medicine,Music,Low-income,Remote
+199,19,Female,HUMSS,94.71,91.09,75.91,88.96,92.44,Math,Health and Medicine,Music,Middle-income,Office
+200,16,Male,ABM,92.86,93.16,81.99,82.25,86.69,Math,Engineering,Debate,Middle-income,Office
+201,16,Female,TVL,89.09,91.74,91.12,85.69,87.73,Math,Science and Technology,NSTP,High-income,Office
+202,16,Male,ABM,83.63,86.52,79.25,82.03,94.93,Arts,Engineering,Sports,Low-income,Field
+203,16,Male,TVL,88.07,83.51,87.81,77.87,88.78,History,Education,Debate,Low-income,Office
+204,17,Female,GAS,87.15,80.09,88.8,77.74,93.96,Arts,Education,None,Low-income,Office
+205,17,Female,TVL,83.68,90.32,80.09,80.63,89.63,English,Engineering,Music,Middle-income,Field
+206,19,Male,HUMSS,76.07,93.2,76.36,90.58,83.34,Arts,Engineering,None,High-income,Remote
+207,19,Female,GAS,81.62,76.68,81.01,83.24,78.26,Science,Health and Medicine,NSTP,Middle-income,Remote
+208,19,Female,ABM,94.49,86.97,86.0,93.42,85.12,Science,Engineering,Music,Low-income,Office
+209,17,Female,STEM,83.19,85.87,90.34,78.26,84.7,English,Health and Medicine,None,Low-income,Field
+210,19,Male,TVL,86.08,80.16,77.28,79.36,84.15,Science,Health and Medicine,None,High-income,Office
+211,16,Female,HUMSS,93.51,75.11,81.67,85.07,94.36,Science,Farming and Forestry,Music,Middle-income,Remote
+212,17,Male,STEM,85.8,89.87,82.92,91.63,85.26,Science,Engineering,NSTP,Middle-income,Field
+213,19,Male,STEM,88.21,75.14,86.38,90.9,85.58,Arts,Arts,Debate,High-income,Office
+214,16,Male,GAS,80.95,85.45,94.2,86.17,88.89,Science,Arts,Debate,Middle-income,Remote
+215,19,Male,ABM,76.92,85.4,91.64,88.79,84.11,History,Health and Medicine,Sports,Low-income,Remote
+216,18,Female,STEM,82.86,82.5,78.88,94.05,75.65,Math,Engineering,Music,High-income,Remote
+217,19,Female,HUMSS,85.99,79.11,91.68,91.92,78.14,Arts,Business,NSTP,Middle-income,Office
+218,18,Male,TVL,84.82,91.09,93.45,89.25,86.18,History,Arts,Sports,Middle-income,Field
+219,19,Male,TVL,76.09,83.18,84.58,89.05,93.43,Science,Farming and Forestry,Music,Middle-income,Remote
+220,19,Male,TVL,75.08,77.13,84.49,91.05,77.38,Science,Science and Technology,Sports,High-income,Field
+221,17,Male,GAS,76.75,83.52,75.71,83.35,92.05,Science,Engineering,Debate,Middle-income,Remote
+222,17,Female,HUMSS,91.48,86.71,77.72,93.32,77.21,Math,Health and Medicine,Sports,High-income,Office
+223,18,Male,STEM,87.5,80.23,78.11,77.33,82.39,Science,Engineering,Music,High-income,Remote
+224,17,Male,HUMSS,84.61,85.72,84.21,77.62,80.79,Science,Health and Medicine,Music,Low-income,Remote
+225,16,Male,GAS,76.94,86.29,92.3,75.35,85.46,English,Engineering,Sports,Low-income,Field
+226,16,Male,GAS,79.14,87.24,92.92,81.96,77.35,Arts,Science and Technology,Music,Middle-income,Remote
+227,18,Male,ABM,87.76,94.84,84.25,88.82,81.1,Arts,Farming and Forestry,Debate,High-income,Office
+228,16,Female,HUMSS,94.54,82.95,91.28,77.78,82.49,History,Health and Medicine,Debate,High-income,Remote
+229,16,Female,TVL,84.47,79.07,93.56,83.84,80.88,Math,Business,Music,Middle-income,Field
+230,19,Female,GAS,77.31,86.04,76.12,94.75,75.56,Science,Health and Medicine,Debate,Middle-income,Field
+231,17,Female,GAS,90.7,86.15,85.42,85.46,77.86,Math,Farming and Forestry,Music,Low-income,Remote
+232,16,Female,ABM,84.42,78.57,86.3,94.4,90.68,English,Engineering,Sports,Middle-income,Remote
+233,16,Male,TVL,92.9,86.18,88.56,78.44,83.44,Math,Arts,NSTP,Middle-income,Office
+234,17,Female,GAS,80.3,84.68,86.1,81.09,93.74,Arts,Arts,None,Low-income,Office
+235,16,Male,STEM,87.84,94.77,75.37,89.89,81.1,Math,Education,Music,Middle-income,Office
+236,16,Female,TVL,82.75,86.55,86.55,77.37,80.67,English,Health and Medicine,Sports,Low-income,Remote
+237,17,Female,HUMSS,82.42,90.48,81.63,77.57,78.66,Math,Science and Technology,None,Middle-income,Office
+238,19,Female,ABM,82.63,82.96,93.32,88.88,89.79,English,Education,Debate,Low-income,Remote
+239,16,Female,STEM,78.73,77.76,90.92,88.76,75.04,Math,Health and Medicine,NSTP,Middle-income,Field
+240,17,Male,STEM,75.89,92.28,76.32,81.15,85.95,History,Arts,Music,Middle-income,Office
+241,16,Female,HUMSS,83.79,77.38,77.99,79.2,76.35,Science,Business,None,High-income,Office
+242,16,Male,ABM,80.27,79.6,91.81,94.62,75.89,Arts,Business,Sports,High-income,Field
+243,19,Female,GAS,91.74,90.66,81.78,83.5,84.62,Arts,Education,None,Low-income,Office
+244,18,Female,ABM,86.28,93.98,82.5,90.26,81.19,Math,Arts,Sports,Middle-income,Field
+245,18,Female,GAS,78.02,77.01,85.69,77.23,84.05,Math,Arts,Debate,Low-income,Remote
+246,17,Male,HUMSS,88.93,85.17,78.32,75.38,81.76,Math,Engineering,None,High-income,Office
+247,18,Male,HUMSS,76.93,90.72,87.11,84.69,82.55,English,Science and Technology,Music,Low-income,Remote
+248,17,Female,STEM,88.36,91.02,78.75,83.62,91.69,Math,Farming and Forestry,None,Middle-income,Remote
+249,18,Female,STEM,91.16,87.28,77.34,78.93,91.67,History,Business,Debate,High-income,Field
+250,19,Male,STEM,83.28,88.69,90.65,75.66,77.66,Math,Farming and Forestry,None,High-income,Office
+251,17,Male,HUMSS,90.13,76.04,81.17,88.2,77.77,Math,Science and Technology,NSTP,Middle-income,Remote
+252,18,Female,GAS,79.55,82.78,92.16,86.86,87.73,Science,Engineering,NSTP,Low-income,Remote
+253,19,Female,HUMSS,76.22,87.72,89.2,84.38,90.23,History,Engineering,Music,Middle-income,Office
+254,18,Male,HUMSS,82.74,91.09,80.43,93.17,88.34,Math,Health and Medicine,Music,Low-income,Field
+255,16,Female,STEM,85.45,91.47,76.74,75.87,77.98,Arts,Engineering,Sports,Middle-income,Field
+256,16,Male,ABM,94.31,84.43,92.54,81.03,89.56,History,Engineering,Sports,Middle-income,Remote
+257,19,Female,STEM,88.74,87.0,82.43,75.21,76.79,History,Science and Technology,Debate,Middle-income,Field
+258,16,Female,ABM,93.73,76.76,91.59,76.93,87.5,English,Business,NSTP,Middle-income,Office
+259,16,Male,GAS,86.45,80.26,81.05,77.48,87.47,Arts,Engineering,NSTP,Low-income,Field
+260,17,Male,GAS,79.71,82.42,85.5,87.04,82.74,Arts,Science and Technology,Debate,Low-income,Field
+261,18,Female,TVL,80.98,87.18,78.5,86.75,93.0,English,Health and Medicine,Music,High-income,Remote
+262,17,Male,TVL,82.9,89.49,82.48,79.0,81.78,History,Education,NSTP,Low-income,Remote
+263,18,Female,TVL,92.08,93.61,75.75,88.41,75.92,Arts,Arts,Debate,Low-income,Office
+264,16,Male,GAS,75.69,83.01,79.04,75.59,88.41,English,Engineering,Debate,High-income,Remote
+265,17,Male,STEM,86.42,88.12,76.85,77.91,83.86,English,Arts,NSTP,High-income,Field
+266,18,Male,STEM,85.34,80.73,85.12,89.92,80.55,English,Engineering,Sports,Low-income,Office
+267,18,Male,STEM,86.43,94.27,90.98,80.55,76.77,English,Arts,None,Low-income,Office
+268,17,Female,HUMSS,94.66,76.15,93.1,86.6,78.31,Science,Education,Music,Low-income,Office
+269,19,Female,TVL,77.95,90.47,78.08,82.04,75.5,English,Education,None,High-income,Office
+270,18,Male,STEM,93.99,78.51,81.8,92.1,87.6,Arts,Arts,NSTP,Low-income,Remote
+271,16,Female,TVL,83.98,84.89,84.67,90.62,90.43,Arts,Business,Sports,Low-income,Office
+272,18,Female,TVL,93.98,75.21,92.48,87.26,81.18,History,Farming and Forestry,None,High-income,Office
+273,16,Female,HUMSS,78.34,92.01,81.21,85.1,87.9,Math,Business,Debate,High-income,Field
+274,17,Female,GAS,79.24,93.62,81.55,76.37,87.88,English,Arts,Music,Middle-income,Remote
+275,18,Female,STEM,78.85,85.36,90.39,91.39,76.7,English,Farming and Forestry,Debate,High-income,Remote
+276,16,Female,HUMSS,75.85,78.89,76.97,90.26,94.1,Math,Education,None,Middle-income,Office
+277,16,Male,GAS,76.57,90.68,94.65,85.58,85.84,Math,Farming and Forestry,Debate,Low-income,Office
+278,17,Female,GAS,88.66,85.21,85.32,89.32,90.15,Arts,Farming and Forestry,NSTP,High-income,Office
+279,18,Male,STEM,79.04,88.97,94.85,94.29,94.15,Arts,Health and Medicine,Music,High-income,Office
+280,18,Female,TVL,91.45,87.3,79.1,78.44,85.44,Science,Engineering,Sports,Low-income,Remote
+281,17,Male,ABM,77.96,88.48,75.73,90.08,90.01,Math,Education,NSTP,Low-income,Field
+282,18,Female,TVL,86.9,82.19,82.75,75.09,85.05,History,Arts,Debate,High-income,Field
+283,17,Female,TVL,81.39,88.1,92.3,89.51,75.37,Math,Engineering,None,Middle-income,Office
+284,18,Female,ABM,89.54,94.51,77.32,93.48,88.17,History,Arts,None,Middle-income,Remote
+285,19,Male,GAS,91.15,76.74,81.22,93.41,85.64,English,Engineering,Debate,Low-income,Office
+286,18,Female,ABM,76.74,80.52,75.88,92.03,94.25,Science,Business,Music,High-income,Field
+287,16,Male,ABM,86.13,82.99,91.96,84.49,80.5,English,Business,Debate,Middle-income,Remote
+288,16,Male,HUMSS,86.04,88.39,92.44,88.96,79.12,Arts,Engineering,Debate,High-income,Remote
+289,19,Female,HUMSS,92.13,83.11,81.67,78.7,91.59,History,Science and Technology,NSTP,High-income,Office
+290,18,Female,HUMSS,85.39,79.01,92.78,88.47,91.78,Arts,Business,Debate,Low-income,Remote
+291,16,Female,GAS,93.34,75.31,77.06,77.15,86.59,History,Engineering,NSTP,High-income,Remote
+292,16,Male,ABM,75.25,89.07,90.32,91.69,76.69,Arts,Business,Music,Low-income,Office
+293,18,Male,STEM,89.01,93.38,89.91,94.63,85.67,Science,Engineering,Music,Middle-income,Field
+294,17,Female,ABM,86.75,85.99,75.45,83.48,81.41,Math,Engineering,Music,Low-income,Office
+295,18,Female,GAS,90.63,89.52,90.17,85.29,86.78,English,Science and Technology,Music,Low-income,Field
+296,17,Female,HUMSS,77.25,86.18,87.78,83.15,84.83,Math,Arts,NSTP,High-income,Remote
+297,19,Male,GAS,77.99,86.66,79.2,90.23,93.68,English,Arts,Debate,Middle-income,Field
+298,19,Male,HUMSS,86.33,81.95,79.01,81.29,81.8,Math,Education,None,Low-income,Office
+299,16,Female,GAS,86.65,91.31,80.73,84.32,78.61,English,Science and Technology,Music,High-income,Field
+300,16,Female,STEM,94.3,79.53,85.65,85.39,75.48,Arts,Business,NSTP,Low-income,Office
+301,16,Male,HUMSS,77.0,94.26,90.46,84.92,85.56,Science,Science and Technology,None,Low-income,Remote
+302,17,Female,HUMSS,77.11,84.1,88.42,82.23,82.64,History,Arts,Debate,Low-income,Field
+303,16,Female,ABM,90.59,83.08,80.45,80.77,76.82,Arts,Farming and Forestry,NSTP,Middle-income,Field
+304,18,Male,GAS,90.71,75.09,78.15,89.44,94.6,Arts,Education,Music,High-income,Office
+305,17,Male,TVL,92.35,78.5,77.29,76.64,85.84,History,Arts,NSTP,Middle-income,Office
+306,19,Female,TVL,92.6,85.12,94.17,84.87,80.71,Math,Farming and Forestry,NSTP,High-income,Field
+307,17,Female,ABM,92.56,86.17,86.19,82.7,78.65,English,Farming and Forestry,Debate,Middle-income,Office
+308,16,Male,GAS,80.28,85.06,77.05,84.14,90.37,Arts,Business,Music,Low-income,Office
+309,18,Male,STEM,88.1,81.8,85.85,89.72,78.08,Arts,Science and Technology,None,High-income,Field
+310,18,Male,ABM,86.44,77.34,85.99,88.74,94.04,Math,Health and Medicine,Debate,Middle-income,Field
+311,16,Male,HUMSS,84.46,85.27,80.42,91.82,88.57,Arts,Business,Debate,Middle-income,Remote
+312,18,Male,STEM,78.44,80.15,93.87,79.52,76.18,English,Business,Sports,Low-income,Field
+313,17,Female,GAS,83.06,85.76,91.08,83.15,94.22,History,Engineering,Debate,Low-income,Field
+314,17,Male,HUMSS,87.36,90.87,86.48,94.7,78.63,Science,Business,Debate,Middle-income,Office
+315,16,Male,TVL,88.62,80.0,78.43,83.56,89.27,Science,Education,Sports,High-income,Field
+316,18,Female,GAS,83.03,83.86,81.23,92.14,80.96,History,Farming and Forestry,Debate,Middle-income,Field
+317,19,Male,HUMSS,82.92,82.54,92.84,92.9,76.97,History,Business,Music,Middle-income,Remote
+318,17,Female,GAS,92.58,84.67,85.81,91.05,77.85,History,Business,NSTP,Middle-income,Field
+319,17,Male,HUMSS,88.81,79.87,76.01,93.78,92.86,Math,Health and Medicine,Sports,High-income,Field
+320,17,Male,GAS,75.99,81.79,75.58,82.35,80.16,Science,Farming and Forestry,Sports,Middle-income,Remote
+321,17,Male,TVL,84.5,90.51,93.07,75.26,93.83,Arts,Health and Medicine,Debate,Middle-income,Remote
+322,19,Male,ABM,80.37,88.63,76.01,88.48,92.99,Math,Engineering,Sports,Middle-income,Field
+323,16,Female,HUMSS,82.45,92.93,82.67,88.44,76.04,English,Health and Medicine,Music,High-income,Remote
+324,17,Male,HUMSS,81.76,92.24,76.72,82.93,79.79,History,Engineering,None,Low-income,Remote
+325,18,Female,TVL,90.87,84.64,82.84,85.45,86.94,Arts,Health and Medicine,Debate,Low-income,Office
+326,19,Female,ABM,81.22,80.16,89.09,88.53,79.73,Science,Arts,Debate,Middle-income,Office
+327,17,Male,GAS,91.86,82.65,92.83,77.38,85.17,Arts,Health and Medicine,Music,Low-income,Remote
+328,18,Female,HUMSS,92.16,90.77,87.59,82.9,85.09,Math,Farming and Forestry,Debate,Middle-income,Field
+329,17,Female,ABM,88.7,79.41,88.8,88.9,93.99,Arts,Arts,Debate,Low-income,Office
+330,16,Female,GAS,94.45,89.02,83.92,94.55,80.39,History,Business,Debate,High-income,Remote
+331,19,Male,HUMSS,79.56,91.0,82.11,89.83,81.37,Science,Arts,Music,Low-income,Remote
+332,16,Male,HUMSS,81.01,83.25,81.65,92.85,86.06,Science,Education,Debate,Low-income,Office
+333,19,Female,GAS,89.87,82.06,78.96,78.37,76.31,Science,Education,Music,High-income,Remote
+334,17,Female,TVL,90.48,85.71,90.17,82.27,75.58,Science,Farming and Forestry,Music,Low-income,Field
+335,17,Male,ABM,81.42,89.02,91.19,78.98,87.67,Math,Health and Medicine,None,Middle-income,Field
+336,19,Female,HUMSS,89.58,80.27,76.57,79.01,93.27,Math,Health and Medicine,NSTP,High-income,Remote
+337,18,Female,GAS,87.1,80.75,93.46,91.88,75.37,Arts,Education,Music,High-income,Remote
+338,18,Female,HUMSS,76.79,82.98,90.29,83.09,86.08,Math,Health and Medicine,Sports,High-income,Field
+339,17,Female,GAS,83.83,89.98,86.36,79.66,86.72,Science,Engineering,Sports,High-income,Office
+340,17,Female,HUMSS,93.27,81.84,76.86,83.49,77.03,English,Engineering,None,High-income,Field
+341,16,Female,STEM,83.14,86.09,91.05,84.98,90.26,Arts,Science and Technology,NSTP,High-income,Remote
+342,17,Male,TVL,84.69,78.57,88.97,90.3,88.03,English,Education,Debate,Middle-income,Remote
+343,19,Male,ABM,85.33,81.28,76.95,90.32,77.51,Science,Farming and Forestry,Sports,Low-income,Remote
+344,18,Male,TVL,82.48,79.37,81.21,86.87,86.36,English,Business,Music,Middle-income,Remote
+345,18,Female,TVL,76.12,86.47,87.89,90.13,83.92,Arts,Arts,Sports,High-income,Field
+346,16,Male,ABM,90.83,78.66,90.33,91.02,91.93,Math,Engineering,None,Low-income,Office
+347,18,Female,TVL,76.31,89.92,84.41,93.86,85.01,Science,Business,NSTP,High-income,Remote
+348,18,Female,STEM,89.19,93.61,93.95,82.12,90.66,History,Arts,NSTP,High-income,Office
+349,19,Male,GAS,83.07,78.8,77.87,88.33,77.85,Arts,Arts,Debate,Low-income,Field
+350,18,Male,ABM,90.61,89.74,92.91,94.0,85.81,Math,Health and Medicine,None,Middle-income,Office
+351,16,Female,GAS,85.49,79.7,80.16,94.75,78.36,English,Education,None,High-income,Field
+352,16,Male,HUMSS,86.37,79.84,82.27,85.23,79.9,Science,Business,Sports,Low-income,Field
+353,18,Male,STEM,78.47,80.31,78.67,77.95,94.05,History,Business,None,Low-income,Office
+354,17,Female,GAS,92.5,79.58,93.35,84.09,94.23,History,Education,NSTP,Low-income,Office
+355,18,Female,GAS,79.01,91.7,81.61,77.44,86.1,Math,Education,NSTP,High-income,Remote
+356,16,Male,ABM,76.15,91.73,92.22,84.79,75.84,English,Education,Music,High-income,Remote
+357,16,Female,HUMSS,75.66,82.12,81.5,79.62,91.25,Arts,Farming and Forestry,Music,High-income,Remote
+358,19,Male,ABM,76.01,90.58,84.75,93.85,94.22,Arts,Education,NSTP,High-income,Office
+359,18,Male,HUMSS,82.21,77.4,76.31,75.59,87.41,History,Science and Technology,Sports,High-income,Field
+360,18,Female,ABM,78.98,76.57,77.26,89.76,88.06,Arts,Health and Medicine,Debate,High-income,Office
+361,19,Female,GAS,82.37,94.12,84.57,91.61,78.35,Science,Farming and Forestry,Music,Middle-income,Field
+362,16,Male,GAS,84.28,84.85,91.92,84.96,76.2,Science,Business,Music,High-income,Remote
+363,19,Female,STEM,82.94,75.13,80.65,75.53,93.44,English,Arts,Debate,High-income,Field
+364,17,Male,GAS,93.46,92.14,81.97,78.58,80.47,Math,Health and Medicine,Music,Low-income,Field
+365,18,Female,TVL,88.62,94.16,86.49,87.09,80.02,English,Farming and Forestry,None,High-income,Remote
+366,16,Female,GAS,79.84,91.96,85.16,81.54,88.6,Math,Arts,Sports,Low-income,Field
+367,19,Male,TVL,84.78,82.42,83.11,81.06,94.98,Math,Education,Sports,High-income,Remote
+368,16,Female,GAS,83.92,81.31,89.29,87.46,91.85,Math,Education,Debate,Middle-income,Remote
+369,17,Male,TVL,94.21,92.96,77.14,90.2,79.26,English,Science and Technology,Debate,High-income,Office
+370,18,Female,TVL,84.49,92.62,86.12,88.22,91.81,History,Education,NSTP,High-income,Field
+371,19,Male,GAS,86.03,86.49,76.42,85.4,80.63,Science,Science and Technology,Debate,High-income,Remote
+372,16,Male,TVL,81.88,80.49,81.04,84.84,78.23,Math,Science and Technology,Sports,Middle-income,Office
+373,18,Female,STEM,91.75,78.66,84.22,84.32,85.68,History,Education,Debate,Middle-income,Remote
+374,18,Male,HUMSS,80.17,90.29,86.81,80.87,76.4,English,Science and Technology,Sports,Middle-income,Field
+375,16,Female,TVL,91.62,85.22,79.77,84.96,76.79,Science,Science and Technology,NSTP,Low-income,Office
+376,18,Male,TVL,76.81,82.96,79.87,85.1,88.97,English,Health and Medicine,NSTP,High-income,Office
+377,18,Male,STEM,75.55,90.0,78.18,85.85,91.61,Arts,Arts,Sports,Middle-income,Field
+378,19,Male,STEM,75.99,77.56,84.65,91.19,89.5,History,Education,NSTP,Low-income,Field
+379,18,Female,ABM,92.08,85.51,76.32,85.81,94.98,Math,Engineering,Debate,Middle-income,Field
+380,19,Female,HUMSS,90.6,83.46,79.16,75.35,92.57,English,Science and Technology,Music,Low-income,Field
+381,18,Male,ABM,79.29,93.79,88.88,90.28,79.22,Math,Farming and Forestry,Sports,Middle-income,Remote
+382,17,Female,TVL,79.43,75.65,83.62,94.81,85.1,History,Education,None,Low-income,Office
+383,17,Female,STEM,79.5,81.95,94.6,92.6,91.04,History,Science and Technology,None,Middle-income,Office
+384,19,Male,TVL,79.13,92.21,86.34,77.38,92.68,Science,Science and Technology,None,Middle-income,Field
+385,19,Male,GAS,88.03,90.52,81.84,84.0,93.91,Arts,Health and Medicine,Music,High-income,Field
+386,17,Male,HUMSS,85.27,84.14,88.88,92.06,87.7,Arts,Farming and Forestry,Music,Low-income,Office
+387,18,Female,GAS,92.29,77.41,78.46,83.85,94.59,English,Health and Medicine,NSTP,High-income,Field
+388,19,Male,STEM,94.34,85.36,88.39,75.72,89.16,English,Farming and Forestry,Sports,Low-income,Remote
+389,16,Male,STEM,88.64,81.31,89.79,78.54,80.46,Science,Arts,None,Middle-income,Office
+390,18,Female,STEM,84.48,75.17,89.24,88.19,88.25,History,Farming and Forestry,Debate,High-income,Office
+391,18,Male,HUMSS,77.65,88.48,91.73,90.59,81.43,History,Engineering,Sports,Middle-income,Field
+392,17,Female,ABM,78.46,82.59,77.29,92.69,79.21,History,Arts,Sports,Middle-income,Remote
+393,19,Male,TVL,91.02,77.01,86.92,78.28,94.18,Science,Business,Music,Low-income,Field
+394,18,Female,TVL,79.48,82.23,81.51,83.61,81.57,Math,Engineering,NSTP,Middle-income,Remote
+395,19,Male,TVL,87.17,92.24,76.95,81.25,93.28,Arts,Arts,NSTP,High-income,Remote
+396,19,Male,TVL,93.86,78.74,83.9,82.78,77.67,Math,Health and Medicine,None,High-income,Remote
+397,19,Male,TVL,89.25,80.26,81.16,90.28,93.45,History,Engineering,None,Low-income,Field
+398,17,Female,ABM,89.19,80.39,83.12,86.38,87.18,Arts,Business,Sports,Middle-income,Remote
+399,19,Female,GAS,80.51,94.17,86.97,84.81,75.09,English,Science and Technology,NSTP,High-income,Field
+400,17,Male,HUMSS,92.91,81.86,88.71,86.08,75.19,Science,Education,Sports,Middle-income,Field
+401,16,Male,GAS,92.03,78.68,86.93,85.79,78.47,English,Arts,Debate,High-income,Office
+402,18,Female,GAS,84.18,83.48,91.4,84.4,86.12,Science,Engineering,Music,Low-income,Field
+403,18,Male,TVL,79.36,83.38,81.55,86.25,88.93,Arts,Engineering,NSTP,Middle-income,Remote
+404,16,Male,TVL,81.04,90.04,87.9,78.13,84.78,Arts,Business,Sports,Middle-income,Field
+405,17,Male,ABM,85.41,82.3,76.23,76.11,82.86,Science,Business,Music,Low-income,Remote
+406,18,Female,HUMSS,87.47,83.01,79.35,80.27,76.62,History,Health and Medicine,None,High-income,Field
+407,17,Female,STEM,86.69,84.01,77.78,86.82,92.53,English,Health and Medicine,Debate,Low-income,Field
+408,17,Male,GAS,75.15,86.43,86.62,82.56,88.03,Science,Health and Medicine,Sports,High-income,Remote
+409,17,Female,STEM,94.99,94.59,90.1,88.53,85.77,Math,Health and Medicine,NSTP,Low-income,Field
+410,16,Male,HUMSS,94.33,88.72,91.2,90.33,92.85,History,Health and Medicine,Debate,Middle-income,Field
+411,16,Female,GAS,91.79,91.28,90.14,80.69,91.32,English,Arts,Debate,High-income,Office
+412,17,Male,STEM,86.23,89.42,88.22,76.23,83.9,English,Business,Sports,High-income,Office
+413,19,Male,STEM,86.88,91.08,84.06,86.81,77.47,History,Education,Debate,High-income,Remote
+414,16,Female,ABM,80.65,86.11,80.83,77.56,94.44,Math,Arts,NSTP,Low-income,Office
+415,19,Male,HUMSS,88.69,92.13,87.31,82.33,82.53,English,Health and Medicine,Sports,High-income,Field
+416,19,Male,HUMSS,84.63,78.92,83.94,91.19,87.03,History,Health and Medicine,Music,Middle-income,Field
+417,17,Female,HUMSS,81.73,91.0,79.11,86.68,82.74,Arts,Science and Technology,Debate,Middle-income,Field
+418,19,Female,GAS,80.53,89.77,92.55,90.3,91.78,Science,Education,NSTP,Middle-income,Remote
+419,19,Male,ABM,81.5,84.46,80.99,87.5,91.24,Arts,Arts,None,Middle-income,Field
+420,19,Female,TVL,80.54,75.19,90.89,82.61,94.68,English,Arts,NSTP,Low-income,Remote
+421,17,Female,GAS,88.12,83.43,88.59,83.56,77.5,Arts,Health and Medicine,Music,Low-income,Office
+422,17,Female,HUMSS,94.04,77.69,93.37,94.84,82.41,Math,Arts,Music,Middle-income,Office
+423,16,Male,GAS,88.03,92.87,93.73,83.24,78.86,English,Engineering,Debate,Middle-income,Remote
+424,16,Female,STEM,78.77,87.61,89.36,76.13,75.19,Science,Farming and Forestry,None,High-income,Office
+425,19,Male,GAS,85.35,85.68,93.3,79.88,89.86,Science,Arts,Debate,Low-income,Field
+426,17,Female,GAS,79.81,81.31,94.81,79.69,90.17,Science,Engineering,Music,High-income,Remote
+427,17,Male,HUMSS,76.14,84.73,86.65,81.24,88.61,Math,Farming and Forestry,NSTP,Middle-income,Remote
+428,19,Male,STEM,92.15,80.02,87.23,76.7,89.18,Science,Farming and Forestry,Sports,High-income,Remote
+429,16,Female,HUMSS,91.2,92.17,85.21,88.76,78.83,Arts,Arts,Sports,Low-income,Office
+430,17,Male,STEM,83.08,75.95,91.95,92.38,91.33,Arts,Education,NSTP,Low-income,Remote
+431,16,Male,STEM,81.39,76.98,92.05,77.29,87.5,English,Farming and Forestry,None,Middle-income,Office
+432,19,Female,STEM,77.8,78.27,76.25,78.4,91.17,Science,Engineering,NSTP,Low-income,Office
+433,17,Female,HUMSS,75.51,79.31,93.02,85.77,79.42,Math,Farming and Forestry,None,Low-income,Remote
+434,19,Male,STEM,84.95,80.09,94.36,75.75,94.6,History,Education,Music,Low-income,Field
+435,18,Female,ABM,80.91,91.78,75.02,88.16,94.35,Arts,Business,Debate,Middle-income,Office
+436,19,Female,ABM,93.14,76.93,86.2,83.45,75.74,English,Engineering,NSTP,Middle-income,Office
+437,19,Male,TVL,83.09,89.89,94.57,85.3,84.86,Arts,Farming and Forestry,Music,High-income,Field
+438,19,Male,ABM,89.73,80.2,77.19,83.42,89.08,Arts,Engineering,Music,High-income,Office
+439,17,Male,TVL,86.66,82.21,80.64,75.41,87.12,English,Farming and Forestry,Debate,Middle-income,Field
+440,19,Female,ABM,94.9,86.15,75.62,84.39,75.14,Arts,Science and Technology,Debate,High-income,Field
+441,19,Male,HUMSS,91.32,91.2,83.63,75.44,94.69,Arts,Engineering,NSTP,Low-income,Field
+442,18,Female,TVL,81.86,81.88,86.8,81.33,87.77,Math,Education,NSTP,Low-income,Office
+443,17,Male,GAS,89.27,83.24,87.5,86.41,77.22,History,Health and Medicine,Sports,Low-income,Field
+444,18,Male,GAS,88.73,82.02,89.24,81.45,80.55,English,Science and Technology,Music,Middle-income,Office
+445,19,Male,ABM,87.77,88.59,83.12,76.95,85.01,English,Health and Medicine,Sports,Low-income,Remote
+446,17,Male,GAS,84.51,87.11,83.7,84.77,78.41,Science,Arts,NSTP,High-income,Office
+447,18,Female,ABM,93.81,86.54,79.22,88.82,78.88,History,Engineering,Sports,Low-income,Office
+448,19,Female,ABM,82.17,88.0,78.47,79.12,89.78,Arts,Arts,None,Low-income,Office
+449,16,Female,GAS,81.0,85.77,77.78,84.93,88.44,Math,Business,Music,Low-income,Field
+450,18,Female,GAS,78.4,94.59,86.11,91.23,87.06,Science,Arts,None,High-income,Field
+451,17,Female,STEM,88.15,80.69,91.87,88.35,78.51,English,Engineering,None,High-income,Office
+452,18,Male,TVL,86.16,81.5,82.21,78.33,86.76,History,Arts,NSTP,Middle-income,Office
+453,18,Male,ABM,80.88,85.21,83.34,80.99,89.92,Math,Engineering,None,Middle-income,Office
+454,18,Female,GAS,84.42,90.49,80.77,94.39,77.55,English,Engineering,NSTP,Middle-income,Office
+455,16,Female,TVL,89.82,83.94,92.45,79.04,93.67,Arts,Science and Technology,Debate,Low-income,Field
+456,17,Male,GAS,89.5,76.57,77.51,87.71,92.11,Science,Health and Medicine,Debate,Middle-income,Office
+457,17,Female,GAS,86.18,87.27,75.23,94.48,92.62,History,Health and Medicine,Sports,High-income,Remote
+458,17,Female,STEM,93.25,84.28,87.97,76.51,89.58,Science,Education,Debate,High-income,Office
+459,19,Male,ABM,93.94,94.13,77.88,92.01,80.49,Arts,Arts,Sports,Low-income,Office
+460,17,Female,ABM,92.99,92.37,92.7,79.28,91.95,Arts,Health and Medicine,Debate,High-income,Remote
+461,17,Female,HUMSS,88.09,87.81,88.16,80.3,75.46,English,Arts,Debate,Middle-income,Remote
+462,16,Female,STEM,79.45,93.57,94.5,80.95,94.4,Science,Education,Debate,Low-income,Field
+463,19,Female,TVL,79.47,83.44,77.72,86.47,88.55,Science,Farming and Forestry,None,Middle-income,Office
+464,19,Female,STEM,92.43,87.25,77.74,91.09,87.29,Science,Arts,Music,Middle-income,Field
+465,18,Female,TVL,83.41,83.1,91.12,87.49,88.61,Science,Farming and Forestry,Sports,High-income,Office
+466,19,Male,ABM,92.74,93.14,92.2,94.16,92.66,Math,Science and Technology,Debate,High-income,Field
+467,19,Female,HUMSS,82.43,76.58,92.87,89.35,75.04,English,Farming and Forestry,None,High-income,Office
+468,16,Female,HUMSS,86.71,81.87,88.91,86.56,83.54,History,Business,Debate,Low-income,Field
+469,17,Female,ABM,84.28,81.27,93.61,86.84,88.46,Math,Education,Music,High-income,Remote
+470,19,Female,GAS,77.36,88.06,87.46,80.47,88.0,Science,Education,Sports,Low-income,Remote
+471,19,Male,STEM,76.07,89.21,84.09,86.33,92.08,Arts,Farming and Forestry,None,Low-income,Field
+472,16,Female,HUMSS,87.69,87.11,83.48,85.62,81.46,Arts,Business,NSTP,High-income,Remote
+473,19,Male,GAS,86.61,82.91,91.4,83.54,91.89,Science,Education,NSTP,Middle-income,Office
+474,19,Female,TVL,87.41,92.75,82.69,81.95,83.14,Math,Health and Medicine,NSTP,Middle-income,Field
+475,16,Male,HUMSS,84.44,90.62,79.51,76.53,77.43,Math,Farming and Forestry,Debate,Middle-income,Remote
+476,18,Female,TVL,78.89,93.78,83.5,91.47,85.37,English,Farming and Forestry,Sports,High-income,Field
+477,18,Female,GAS,77.4,89.96,75.15,85.09,84.91,Arts,Engineering,Music,Middle-income,Field
+478,19,Male,TVL,88.61,85.42,84.96,81.0,85.35,Science,Business,NSTP,High-income,Remote
+479,19,Male,GAS,85.6,84.01,89.62,88.27,75.87,Math,Engineering,Sports,Middle-income,Office
+480,17,Female,TVL,83.26,78.35,89.24,81.27,89.42,Math,Arts,Sports,Middle-income,Office
+481,19,Female,STEM,92.42,92.08,80.39,83.29,75.94,History,Engineering,Sports,Middle-income,Field
+482,17,Female,HUMSS,78.02,77.5,93.53,80.03,93.37,English,Farming and Forestry,Music,High-income,Office
+483,18,Female,HUMSS,94.85,79.69,86.53,85.31,85.65,History,Engineering,Music,Low-income,Field
+484,19,Female,GAS,81.85,80.03,75.67,88.43,81.32,Arts,Science and Technology,None,High-income,Office
+485,19,Male,TVL,94.74,89.88,75.76,85.95,82.84,Science,Health and Medicine,Music,Low-income,Field
+486,16,Female,ABM,92.86,89.99,84.67,92.62,81.69,Arts,Arts,Debate,High-income,Field
+487,19,Female,HUMSS,94.73,79.21,82.37,87.56,92.6,Science,Science and Technology,Debate,High-income,Field
+488,18,Female,TVL,77.86,82.94,86.61,85.32,91.15,Math,Arts,Sports,High-income,Remote
+489,19,Male,TVL,92.25,76.91,94.23,78.73,94.81,Math,Engineering,None,Low-income,Remote
+490,17,Female,STEM,78.61,93.74,76.6,84.98,79.51,Science,Education,None,Low-income,Field
+491,19,Female,ABM,76.62,84.46,89.6,88.22,88.79,Arts,Health and Medicine,NSTP,Low-income,Remote
+492,17,Female,HUMSS,81.65,76.08,85.53,91.48,94.16,Arts,Education,Music,High-income,Field
+493,16,Male,STEM,94.73,90.42,92.19,93.76,93.34,English,Farming and Forestry,Sports,High-income,Remote
+494,19,Male,ABM,81.27,85.48,90.01,80.36,78.94,History,Education,Sports,Middle-income,Office
+495,16,Female,HUMSS,76.16,94.92,80.59,87.76,81.58,Science,Science and Technology,Music,High-income,Field
+496,16,Female,STEM,84.04,77.08,85.34,91.18,76.26,Arts,Farming and Forestry,Debate,High-income,Field
+497,19,Male,ABM,79.19,87.36,85.47,92.06,87.51,Math,Health and Medicine,Sports,Middle-income,Remote
+498,17,Male,HUMSS,90.47,76.69,87.2,93.14,75.56,Arts,Business,Sports,Middle-income,Remote
+499,19,Male,ABM,86.53,93.63,79.9,93.69,83.64,Arts,Science and Technology,Music,Middle-income,Remote
+500,17,Female,TVL,78.17,82.8,87.61,89.53,75.48,English,Science and Technology,NSTP,Middle-income,Office
+501,16,Male,GAS,90.7,79.59,88.27,76.2,90.94,Arts,Business,Sports,Low-income,Office
+502,18,Male,GAS,90.6,89.75,88.37,79.01,93.7,English,Farming and Forestry,Debate,High-income,Remote
+503,19,Male,TVL,77.59,83.86,88.68,84.25,91.81,Math,Arts,NSTP,High-income,Office
+504,18,Male,ABM,83.67,77.53,85.78,79.81,79.94,Math,Education,NSTP,High-income,Office
+505,17,Female,TVL,83.59,85.53,86.59,89.93,84.47,Math,Arts,Music,Middle-income,Field
+506,19,Female,GAS,83.58,78.41,87.26,90.31,94.18,Math,Business,Debate,Low-income,Field
+507,18,Female,GAS,84.55,75.7,93.07,91.88,91.65,Math,Engineering,Sports,Low-income,Field
+508,18,Male,ABM,75.09,82.14,85.7,83.21,91.43,Arts,Science and Technology,Music,Middle-income,Remote
+509,19,Male,GAS,85.68,93.31,75.22,92.2,85.39,History,Education,Debate,Middle-income,Office
+510,18,Female,TVL,89.61,92.28,84.08,93.22,79.73,Science,Arts,Sports,Middle-income,Remote
+511,19,Female,ABM,94.0,84.34,93.12,87.68,76.46,Math,Farming and Forestry,Debate,Low-income,Remote
+512,18,Female,TVL,92.84,92.42,86.48,91.92,87.0,History,Arts,None,High-income,Field
+513,16,Female,ABM,90.14,93.7,81.63,80.34,83.77,History,Education,Music,High-income,Office
+514,19,Male,GAS,85.62,85.97,82.06,80.74,76.91,History,Science and Technology,NSTP,High-income,Remote
+515,16,Male,HUMSS,75.36,77.7,94.56,78.21,83.93,Arts,Engineering,None,High-income,Office
+516,16,Female,ABM,75.08,93.97,80.89,88.74,77.5,English,Arts,Debate,High-income,Office
+517,18,Female,ABM,89.67,85.79,78.35,79.72,94.49,Math,Education,NSTP,Middle-income,Field
+518,17,Female,HUMSS,79.53,86.82,88.9,79.77,93.33,History,Arts,Sports,Middle-income,Office
+519,16,Female,GAS,92.54,84.13,86.95,78.0,82.55,Science,Health and Medicine,NSTP,Middle-income,Office
+520,16,Male,TVL,81.24,89.98,81.08,75.55,92.8,Arts,Farming and Forestry,Debate,Middle-income,Office
+521,16,Male,STEM,77.05,92.55,90.7,90.94,88.87,Arts,Science and Technology,Debate,Middle-income,Field
+522,17,Male,HUMSS,85.07,83.7,80.21,81.21,90.65,Arts,Science and Technology,Debate,Low-income,Field
+523,17,Male,STEM,81.12,87.8,87.59,84.71,76.24,English,Health and Medicine,None,Low-income,Office
+524,16,Female,GAS,76.31,85.68,86.56,94.83,91.05,History,Engineering,Music,Low-income,Field
+525,17,Female,ABM,75.91,93.18,86.46,83.44,76.1,Science,Health and Medicine,Sports,High-income,Field
+526,17,Male,ABM,93.97,84.63,88.13,93.11,87.21,Math,Farming and Forestry,None,High-income,Remote
+527,17,Female,GAS,84.12,79.54,80.84,79.04,83.64,English,Education,None,Low-income,Office
+528,19,Female,TVL,85.41,76.79,89.75,80.45,77.04,Math,Education,Sports,Middle-income,Field
+529,16,Female,TVL,85.48,81.16,75.55,75.58,76.12,History,Business,Sports,High-income,Office
+530,17,Male,GAS,83.67,83.24,84.7,90.79,76.04,Science,Farming and Forestry,Debate,Middle-income,Field
+531,19,Female,GAS,88.74,78.11,77.54,80.56,92.0,Arts,Farming and Forestry,Debate,High-income,Field
+532,18,Female,GAS,77.68,75.21,76.54,86.01,83.03,Math,Education,Music,High-income,Field
+533,18,Male,GAS,94.92,85.47,90.68,87.89,87.35,Arts,Health and Medicine,Music,Middle-income,Remote
+534,17,Male,GAS,84.8,90.17,80.04,75.84,83.22,History,Education,NSTP,Low-income,Field
+535,16,Male,GAS,90.0,77.73,87.32,89.45,92.29,History,Arts,NSTP,Middle-income,Office
+536,17,Male,ABM,78.3,80.74,80.5,90.64,90.75,History,Engineering,Music,Middle-income,Field
+537,18,Female,STEM,93.14,85.7,80.14,76.11,87.48,Arts,Health and Medicine,None,Low-income,Field
+538,16,Male,TVL,91.24,88.76,89.83,92.93,84.07,Math,Business,Music,Low-income,Office
+539,16,Female,STEM,75.38,84.84,87.08,81.28,84.28,History,Farming and Forestry,NSTP,Middle-income,Office
+540,18,Male,ABM,79.49,90.11,93.2,80.96,83.56,History,Education,Music,Middle-income,Field
+541,19,Female,HUMSS,94.7,80.99,89.78,76.27,87.4,History,Arts,Music,Middle-income,Remote
+542,19,Female,STEM,79.22,90.32,88.18,94.1,77.03,Math,Business,NSTP,Middle-income,Remote
+543,17,Male,HUMSS,75.44,90.96,82.4,92.94,88.02,Science,Engineering,Debate,Low-income,Office
+544,16,Female,ABM,85.09,86.94,78.51,88.43,88.52,Math,Engineering,Music,Low-income,Field
+545,17,Female,TVL,77.46,90.94,90.65,92.71,75.52,Science,Engineering,Music,Middle-income,Office
+546,16,Male,HUMSS,89.22,85.96,79.72,82.94,85.34,History,Business,Music,Middle-income,Field
+547,18,Male,ABM,90.84,78.77,78.62,91.8,86.76,Science,Science and Technology,None,High-income,Remote
+548,16,Female,GAS,82.5,92.64,85.55,91.86,77.16,Math,Health and Medicine,None,Low-income,Remote
+549,16,Male,TVL,87.81,83.74,75.66,79.72,75.25,History,Health and Medicine,NSTP,Low-income,Office
+550,18,Male,GAS,90.42,80.0,94.68,86.42,89.27,Arts,Business,Debate,High-income,Remote
+551,19,Male,TVL,87.46,89.3,94.35,85.0,86.86,English,Engineering,Music,Middle-income,Field
+552,18,Male,TVL,86.88,87.92,86.91,77.41,91.82,Math,Arts,None,Low-income,Office
+553,16,Male,STEM,75.96,91.57,91.43,88.28,93.09,Math,Business,Debate,Low-income,Office
+554,18,Female,TVL,77.16,79.41,91.75,86.61,77.52,Science,Arts,Sports,Low-income,Field
+555,16,Male,STEM,91.72,76.58,90.06,90.5,85.18,History,Science and Technology,NSTP,High-income,Office
+556,19,Female,HUMSS,75.96,87.51,83.26,85.51,82.11,Science,Engineering,Sports,High-income,Remote
+557,19,Female,TVL,77.32,85.33,82.66,84.93,84.63,Science,Engineering,Sports,Low-income,Remote
+558,16,Female,HUMSS,83.89,91.0,88.21,76.8,87.42,Math,Arts,Music,Low-income,Field
+559,19,Male,TVL,77.47,87.26,89.52,87.0,78.72,History,Science and Technology,NSTP,High-income,Remote
+560,18,Male,STEM,80.05,88.88,78.35,90.46,77.75,English,Engineering,Debate,Low-income,Field
+561,19,Male,GAS,89.04,80.44,86.56,81.27,75.88,Math,Health and Medicine,Sports,High-income,Office
+562,17,Female,TVL,79.11,87.97,91.84,91.65,77.55,Math,Business,None,High-income,Field
+563,19,Female,ABM,88.71,85.64,76.09,89.74,86.69,Math,Arts,NSTP,Low-income,Remote
+564,17,Female,GAS,75.19,80.38,80.29,91.12,85.26,History,Science and Technology,Music,Low-income,Remote
+565,18,Female,STEM,83.42,78.76,91.39,89.88,88.03,English,Arts,Sports,Middle-income,Field
+566,19,Female,ABM,77.02,76.37,76.05,93.71,82.15,English,Farming and Forestry,Debate,Low-income,Field
+567,19,Male,HUMSS,85.41,77.73,84.28,79.36,86.67,History,Engineering,Sports,Middle-income,Office
+568,19,Male,STEM,87.46,77.21,84.52,77.14,85.82,Science,Arts,NSTP,Low-income,Field
+569,18,Female,GAS,89.01,84.11,84.53,79.28,77.91,Arts,Business,Debate,Middle-income,Field
+570,18,Male,HUMSS,83.38,84.06,93.97,80.49,84.39,Math,Engineering,Music,High-income,Field
+571,17,Female,HUMSS,92.97,89.01,93.45,83.17,87.07,Science,Science and Technology,None,Middle-income,Remote
+572,16,Female,STEM,85.23,84.84,79.67,92.26,80.82,English,Science and Technology,NSTP,High-income,Remote
+573,18,Female,GAS,87.35,81.41,88.67,76.12,94.41,Math,Engineering,None,Middle-income,Office
+574,19,Male,STEM,80.65,78.04,82.8,85.67,85.35,History,Science and Technology,Sports,High-income,Remote
+575,17,Male,ABM,90.7,94.39,80.25,88.99,88.15,English,Health and Medicine,Music,Low-income,Field
+576,19,Male,ABM,84.95,75.44,85.61,77.26,77.89,History,Education,Music,Middle-income,Remote
+577,19,Female,TVL,87.18,94.45,83.69,85.91,79.75,Arts,Engineering,Music,Middle-income,Field
+578,18,Male,HUMSS,90.56,80.64,80.78,84.5,91.38,Science,Engineering,NSTP,Low-income,Field
+579,16,Male,TVL,91.63,77.5,90.95,79.93,86.19,History,Business,None,High-income,Remote
+580,19,Male,GAS,94.46,83.77,82.64,80.55,76.09,Arts,Engineering,NSTP,High-income,Field
+581,18,Female,ABM,82.16,75.16,81.31,90.69,81.88,English,Business,Music,Low-income,Remote
+582,17,Male,TVL,83.2,76.8,85.61,77.9,94.53,History,Engineering,Music,Middle-income,Field
+583,19,Male,ABM,78.21,75.29,94.12,84.5,87.81,English,Business,Sports,Middle-income,Office
+584,17,Female,ABM,85.96,79.34,76.95,82.35,79.03,History,Health and Medicine,Debate,Middle-income,Office
+585,18,Male,ABM,93.21,83.4,85.63,81.16,76.37,History,Business,None,Middle-income,Field
+586,18,Female,STEM,88.76,90.71,82.08,87.91,78.79,History,Education,None,Low-income,Remote
+587,18,Female,TVL,84.61,84.97,91.88,93.1,84.51,Science,Science and Technology,Music,Low-income,Field
+588,18,Male,HUMSS,79.69,82.43,87.21,75.7,88.84,Math,Arts,None,Middle-income,Remote
+589,18,Female,TVL,75.25,88.94,88.04,89.79,84.35,Math,Business,Debate,High-income,Office
+590,16,Male,HUMSS,76.78,75.63,80.45,90.98,88.85,Science,Health and Medicine,NSTP,High-income,Office
+591,17,Female,TVL,77.21,76.6,80.41,76.09,92.04,Math,Education,NSTP,Low-income,Office
+592,16,Male,TVL,86.48,90.01,91.05,93.35,86.32,Science,Farming and Forestry,None,Middle-income,Field
+593,17,Female,ABM,84.88,77.92,80.11,88.43,81.71,Science,Business,Music,Low-income,Remote
+594,19,Male,HUMSS,93.99,80.33,86.68,80.06,80.99,English,Arts,Music,High-income,Remote
+595,19,Male,HUMSS,90.59,82.85,84.22,82.69,81.57,Science,Farming and Forestry,Debate,Low-income,Field
+596,17,Male,HUMSS,76.5,85.86,88.51,87.78,77.1,Science,Farming and Forestry,Debate,High-income,Office
+597,19,Male,TVL,89.47,78.63,79.84,89.01,92.52,History,Engineering,NSTP,Low-income,Remote
+598,19,Female,HUMSS,93.1,92.91,88.44,93.06,93.21,History,Business,Sports,Middle-income,Remote
+599,19,Male,TVL,87.89,80.0,90.41,88.7,84.92,Science,Education,NSTP,Low-income,Remote
+600,16,Male,STEM,84.14,82.63,85.4,85.7,93.4,History,Farming and Forestry,Sports,High-income,Field
+601,16,Male,ABM,94.55,75.25,88.55,79.73,87.78,English,Science and Technology,None,Middle-income,Field
+602,18,Male,GAS,80.28,94.49,94.86,83.85,88.86,English,Engineering,Music,Middle-income,Office
+603,17,Female,STEM,76.0,89.29,81.27,75.16,84.33,Science,Science and Technology,None,Middle-income,Field
+604,19,Male,HUMSS,91.26,82.7,75.21,94.21,79.26,History,Health and Medicine,None,High-income,Field
+605,17,Female,ABM,92.48,94.5,75.17,93.55,84.61,Arts,Health and Medicine,Sports,High-income,Office
+606,18,Male,ABM,92.04,79.94,76.36,93.36,90.37,Math,Arts,Music,High-income,Office
+607,18,Female,ABM,82.2,94.89,83.22,81.02,91.29,History,Engineering,NSTP,High-income,Field
+608,19,Female,ABM,88.54,78.98,85.51,93.73,91.15,English,Science and Technology,Music,Low-income,Field
+609,18,Female,HUMSS,83.52,89.71,88.71,90.13,82.52,English,Health and Medicine,Debate,High-income,Field
+610,19,Female,ABM,77.32,76.88,82.03,80.95,83.01,Arts,Education,Music,High-income,Office
+611,18,Male,GAS,92.02,88.32,89.51,92.19,91.52,Science,Education,Debate,Middle-income,Remote
+612,18,Female,GAS,92.81,79.17,80.04,78.2,75.13,Arts,Science and Technology,NSTP,Low-income,Remote
+613,19,Female,ABM,75.19,82.78,75.68,83.78,75.2,Arts,Health and Medicine,Debate,Middle-income,Field
+614,18,Female,TVL,77.77,94.22,87.39,81.34,82.16,Math,Health and Medicine,Sports,Low-income,Field
+615,18,Male,HUMSS,87.94,93.72,76.14,91.24,86.09,English,Engineering,Music,High-income,Field
+616,18,Male,GAS,81.57,78.17,86.88,87.89,77.85,Arts,Business,None,High-income,Field
+617,17,Male,GAS,92.89,89.56,92.88,90.79,83.81,Science,Arts,Debate,Middle-income,Remote
+618,16,Female,GAS,94.1,89.89,79.34,80.48,87.63,History,Arts,Debate,Low-income,Field
+619,17,Female,STEM,80.37,85.99,86.99,76.6,93.25,Science,Farming and Forestry,NSTP,High-income,Office
+620,18,Female,STEM,89.66,77.44,77.44,90.59,82.2,Math,Education,Music,High-income,Remote
+621,16,Female,GAS,82.45,84.62,94.16,84.83,94.51,English,Engineering,Debate,High-income,Field
+622,17,Male,TVL,81.85,80.98,76.73,89.74,78.98,Science,Farming and Forestry,NSTP,Low-income,Office
+623,17,Female,HUMSS,77.28,82.21,87.09,93.53,80.68,English,Engineering,Music,High-income,Field
+624,17,Male,HUMSS,83.01,76.04,82.52,81.65,79.38,History,Farming and Forestry,Debate,High-income,Field
+625,19,Female,GAS,84.13,88.33,90.28,83.45,80.24,History,Arts,Debate,Low-income,Field
+626,18,Female,GAS,91.71,94.47,87.96,93.37,78.49,History,Arts,Music,Low-income,Office
+627,18,Female,HUMSS,88.8,79.72,91.06,77.01,91.95,Science,Health and Medicine,Sports,Low-income,Field
+628,16,Female,TVL,84.56,83.68,78.7,78.21,79.92,Arts,Farming and Forestry,Music,High-income,Field
+629,17,Male,STEM,83.43,75.3,77.22,80.22,78.92,Science,Farming and Forestry,Music,Middle-income,Field
+630,18,Female,STEM,92.72,90.89,78.69,76.33,78.52,English,Arts,None,Low-income,Remote
+631,17,Male,GAS,78.34,86.69,80.89,83.42,80.24,Arts,Health and Medicine,None,High-income,Office
+632,18,Female,HUMSS,77.65,82.92,88.21,89.58,77.02,Arts,Farming and Forestry,Sports,Low-income,Remote
+633,17,Male,STEM,89.53,79.86,76.51,85.95,91.63,Math,Arts,Debate,Middle-income,Office
+634,18,Female,TVL,94.63,94.38,84.07,81.54,77.74,History,Science and Technology,Music,Middle-income,Field
+635,16,Male,GAS,91.89,86.62,94.9,88.9,88.1,Science,Science and Technology,Sports,Low-income,Remote
+636,17,Female,ABM,77.07,88.82,90.39,90.24,92.7,Math,Farming and Forestry,Sports,Middle-income,Office
+637,18,Female,GAS,93.22,88.77,88.84,87.83,81.77,English,Science and Technology,NSTP,Low-income,Remote
+638,16,Male,ABM,84.65,78.1,88.35,78.67,79.2,Math,Farming and Forestry,None,High-income,Remote
+639,16,Male,GAS,86.38,90.42,90.4,83.87,84.12,History,Science and Technology,Debate,Middle-income,Field
+640,18,Male,HUMSS,83.76,79.97,80.15,87.82,82.39,Math,Health and Medicine,Music,Middle-income,Office
+641,17,Male,HUMSS,87.23,85.0,90.61,75.06,82.45,History,Business,Sports,Low-income,Office
+642,19,Female,HUMSS,90.58,88.72,80.55,79.0,78.43,Arts,Education,Debate,Low-income,Office
+643,16,Female,HUMSS,87.23,81.77,76.25,81.11,85.54,Math,Health and Medicine,NSTP,High-income,Remote
+644,16,Female,TVL,92.25,94.39,82.77,86.52,90.98,English,Arts,Music,Low-income,Office
+645,18,Male,TVL,92.6,90.19,94.92,77.22,87.46,Math,Business,Sports,High-income,Office
+646,19,Male,ABM,89.55,76.2,80.16,79.99,83.67,English,Business,NSTP,High-income,Remote
+647,19,Female,TVL,92.84,82.11,91.26,89.27,89.22,English,Business,NSTP,High-income,Office
+648,19,Female,GAS,84.66,78.08,78.56,90.35,77.37,English,Science and Technology,NSTP,Low-income,Remote
+649,18,Male,HUMSS,84.76,85.73,76.39,87.98,92.65,Science,Health and Medicine,Debate,Low-income,Field
+650,17,Male,STEM,92.75,77.15,94.59,77.6,77.62,Science,Education,Music,Middle-income,Field
+651,16,Female,STEM,83.81,84.76,79.01,86.88,78.79,English,Engineering,Music,Low-income,Field
+652,18,Female,STEM,76.27,81.33,82.85,83.21,85.65,Math,Farming and Forestry,None,Middle-income,Field
+653,19,Female,GAS,88.1,86.17,87.91,93.79,88.89,Math,Health and Medicine,Music,High-income,Field
+654,16,Female,STEM,75.25,87.89,77.17,84.03,81.36,Arts,Farming and Forestry,Sports,High-income,Remote
+655,16,Female,STEM,92.37,81.95,85.81,92.47,83.59,Science,Education,None,Low-income,Remote
+656,19,Male,ABM,85.5,92.84,83.63,77.67,87.72,Arts,Arts,NSTP,High-income,Office
+657,19,Male,GAS,89.87,89.66,87.28,78.47,93.42,Math,Arts,Music,Low-income,Remote
+658,16,Female,GAS,89.48,75.43,77.12,86.86,90.26,Math,Science and Technology,None,Low-income,Remote
+659,16,Female,STEM,79.48,82.56,83.83,81.55,86.75,Science,Science and Technology,Sports,Middle-income,Remote
+660,17,Male,GAS,94.12,89.49,80.18,80.64,92.09,History,Engineering,Sports,High-income,Field
+661,17,Male,ABM,92.46,80.01,75.7,76.69,80.88,English,Arts,Music,Middle-income,Office
+662,18,Female,ABM,85.38,75.79,76.41,82.35,77.97,History,Science and Technology,Sports,High-income,Office
+663,16,Male,HUMSS,88.76,89.13,89.55,82.87,79.94,Arts,Farming and Forestry,NSTP,Middle-income,Field
+664,17,Male,ABM,87.36,86.18,90.54,82.55,87.59,Math,Education,None,High-income,Field
+665,16,Female,HUMSS,83.66,85.85,75.38,91.69,80.6,History,Engineering,Sports,High-income,Office
+666,19,Female,STEM,89.53,84.8,84.95,86.41,77.53,English,Health and Medicine,Music,Low-income,Office
+667,17,Female,HUMSS,84.64,86.33,88.06,75.41,85.17,History,Engineering,Music,High-income,Remote
+668,19,Female,HUMSS,88.27,85.87,75.02,75.46,86.68,English,Arts,Debate,Middle-income,Remote
+669,19,Male,STEM,87.83,81.47,75.76,86.17,84.78,History,Health and Medicine,Music,Middle-income,Remote
+670,19,Male,HUMSS,77.97,84.37,82.81,87.24,89.55,English,Health and Medicine,None,High-income,Office
+671,18,Female,ABM,91.53,92.35,78.03,79.57,90.69,History,Business,NSTP,High-income,Field
+672,19,Male,STEM,92.84,86.97,81.6,76.78,90.82,Math,Science and Technology,None,Low-income,Remote
+673,18,Female,GAS,87.26,92.21,82.83,84.25,87.3,Math,Health and Medicine,Sports,Middle-income,Remote
+674,16,Female,HUMSS,75.23,78.21,75.07,80.24,78.35,Science,Health and Medicine,NSTP,Low-income,Office
+675,16,Female,ABM,93.69,85.62,89.15,92.04,82.76,English,Health and Medicine,NSTP,Middle-income,Field
+676,17,Female,GAS,85.11,83.99,90.42,76.0,92.65,Arts,Engineering,Debate,High-income,Remote
+677,17,Male,STEM,84.39,91.39,84.56,87.36,90.02,Science,Education,Sports,Middle-income,Remote
+678,18,Female,STEM,84.92,85.83,83.08,87.01,82.49,English,Engineering,None,Middle-income,Field
+679,16,Male,STEM,78.31,84.08,89.56,77.99,85.38,History,Education,NSTP,High-income,Field
+680,17,Male,ABM,90.03,90.52,91.25,94.16,78.58,History,Business,Music,Middle-income,Field
+681,17,Female,GAS,81.41,85.12,76.4,78.4,89.25,History,Arts,None,High-income,Office
+682,17,Female,STEM,81.62,89.67,79.52,86.34,85.51,Arts,Business,Music,Middle-income,Office
+683,16,Male,ABM,80.56,92.66,82.69,75.28,84.67,Arts,Arts,NSTP,High-income,Remote
+684,17,Female,TVL,85.14,87.39,88.79,85.52,94.12,History,Engineering,Music,Middle-income,Field
+685,16,Female,ABM,86.01,82.28,90.6,90.47,84.48,Science,Business,NSTP,Middle-income,Remote
+686,19,Female,TVL,82.57,87.4,77.42,93.57,86.62,English,Science and Technology,NSTP,Low-income,Remote
+687,19,Male,GAS,91.34,81.41,85.71,91.55,87.76,Math,Business,NSTP,Low-income,Remote
+688,19,Male,STEM,76.58,76.27,94.83,84.88,90.81,History,Business,NSTP,Low-income,Office
+689,18,Male,STEM,83.88,94.34,81.67,79.49,87.99,Science,Engineering,NSTP,Middle-income,Field
+690,16,Female,HUMSS,86.46,91.38,81.06,79.06,79.14,Science,Engineering,Debate,Middle-income,Office
+691,17,Female,STEM,76.76,78.8,76.1,93.92,92.9,Science,Arts,None,Middle-income,Office
+692,18,Female,GAS,84.97,88.66,94.94,91.27,84.04,Arts,Farming and Forestry,Debate,Middle-income,Remote
+693,18,Female,ABM,81.32,90.31,87.94,80.32,79.69,History,Health and Medicine,NSTP,Low-income,Field
+694,19,Male,GAS,94.61,78.08,82.31,89.93,79.37,English,Education,Debate,High-income,Field
+695,16,Male,STEM,89.9,80.66,92.07,82.64,83.5,Math,Business,Sports,Middle-income,Remote
+696,17,Female,ABM,75.36,83.2,81.8,83.63,82.54,English,Education,None,Low-income,Remote
+697,18,Male,GAS,83.07,81.44,91.82,79.13,78.14,Science,Business,Music,Low-income,Remote
+698,17,Male,STEM,75.72,76.93,90.21,79.31,91.85,History,Health and Medicine,Sports,Middle-income,Office
+699,19,Male,STEM,85.98,88.18,80.8,91.48,80.09,Arts,Education,None,Middle-income,Remote
+700,16,Male,STEM,91.52,75.88,79.06,89.53,76.7,Arts,Farming and Forestry,None,High-income,Office
+701,17,Female,HUMSS,90.84,93.76,86.09,78.79,90.03,Science,Arts,Music,Low-income,Field
+702,17,Female,HUMSS,94.26,78.57,94.35,78.61,80.9,Arts,Engineering,Sports,Middle-income,Remote
+703,18,Female,HUMSS,87.75,75.63,88.21,90.85,85.38,English,Science and Technology,None,High-income,Field
+704,17,Male,ABM,92.8,77.14,80.98,75.58,79.6,Arts,Education,None,Middle-income,Office
+705,16,Male,GAS,86.25,78.83,82.8,94.52,75.82,History,Engineering,None,High-income,Field
+706,16,Female,ABM,88.09,75.64,77.14,79.71,85.25,English,Business,Music,Low-income,Field
+707,17,Female,ABM,84.12,87.84,88.78,84.02,81.73,English,Health and Medicine,Debate,Middle-income,Remote
+708,18,Male,STEM,81.82,82.77,84.73,79.97,84.02,Arts,Business,NSTP,Middle-income,Remote
+709,18,Female,TVL,91.51,84.8,92.7,86.66,83.65,History,Education,Sports,High-income,Office
+710,19,Female,TVL,91.33,87.48,83.76,87.94,82.35,Science,Education,NSTP,Middle-income,Field
+711,16,Female,STEM,91.89,86.81,78.79,76.71,84.95,English,Health and Medicine,Debate,High-income,Remote
+712,19,Female,TVL,81.64,75.98,75.71,84.38,80.46,Math,Science and Technology,NSTP,Low-income,Remote
+713,18,Female,ABM,90.35,79.41,75.51,92.43,75.49,English,Farming and Forestry,None,Low-income,Office
+714,19,Female,GAS,87.0,89.36,94.93,94.49,83.83,Arts,Arts,NSTP,Middle-income,Remote
+715,18,Male,HUMSS,89.33,75.26,79.77,82.95,80.31,English,Education,Debate,Middle-income,Field
+716,19,Female,ABM,82.27,93.42,82.78,79.24,76.52,Math,Business,Debate,High-income,Office
+717,19,Female,ABM,84.05,88.11,90.85,82.67,93.03,Math,Science and Technology,Debate,Low-income,Remote
+718,16,Male,GAS,76.95,93.57,87.87,83.47,80.89,Math,Health and Medicine,Music,Middle-income,Field
+719,16,Female,TVL,88.18,91.64,84.99,86.94,85.04,Science,Science and Technology,Debate,Low-income,Field
+720,19,Female,GAS,75.04,84.36,94.3,76.46,85.93,Math,Business,Music,High-income,Office
+721,18,Male,ABM,82.1,87.78,91.24,86.14,76.56,Science,Business,None,Middle-income,Field
+722,18,Female,STEM,87.67,82.22,94.33,76.04,80.53,History,Engineering,Debate,Middle-income,Office
+723,16,Female,STEM,91.0,89.87,75.33,93.62,79.55,Math,Farming and Forestry,Music,High-income,Office
+724,16,Male,ABM,85.95,92.81,81.79,84.42,77.37,Math,Education,None,Middle-income,Field
+725,17,Male,STEM,82.48,91.44,81.75,82.09,82.2,English,Science and Technology,NSTP,Middle-income,Remote
+726,16,Female,TVL,77.13,90.88,89.42,87.13,85.92,History,Education,Music,Middle-income,Office
+727,18,Male,GAS,92.94,76.17,83.11,88.42,81.68,Arts,Business,Debate,Middle-income,Field
+728,16,Female,HUMSS,84.85,87.34,79.23,91.04,88.5,Math,Farming and Forestry,Debate,Middle-income,Field
+729,17,Male,GAS,91.44,85.58,88.08,89.19,80.0,Arts,Engineering,None,Middle-income,Field
+730,19,Male,HUMSS,89.85,89.69,85.46,91.2,89.9,History,Science and Technology,None,Middle-income,Remote
+731,19,Male,ABM,83.18,91.69,93.8,75.11,90.37,Science,Farming and Forestry,Debate,Low-income,Remote
+732,18,Male,ABM,80.09,76.56,92.4,85.09,91.91,Arts,Engineering,Sports,Middle-income,Field
+733,17,Male,HUMSS,78.92,79.32,85.73,82.62,78.81,Arts,Farming and Forestry,None,Middle-income,Office
+734,19,Male,STEM,77.41,85.39,89.82,94.55,87.08,History,Health and Medicine,Sports,High-income,Office
+735,19,Female,ABM,92.04,77.02,79.66,88.43,77.76,History,Arts,None,Low-income,Office
+736,16,Female,TVL,79.31,79.62,76.44,77.64,92.1,Math,Farming and Forestry,NSTP,Middle-income,Office
+737,19,Female,TVL,91.49,82.71,89.71,92.84,89.32,Arts,Health and Medicine,Sports,High-income,Remote
+738,18,Male,TVL,78.81,78.86,84.78,75.82,85.86,Math,Science and Technology,Sports,Low-income,Field
+739,19,Female,TVL,81.76,88.14,75.38,78.59,80.22,History,Engineering,Sports,Middle-income,Office
+740,18,Male,HUMSS,90.14,86.4,93.14,78.4,90.4,Science,Arts,Music,Middle-income,Office
+741,18,Female,STEM,75.93,93.95,87.37,84.86,80.64,Math,Health and Medicine,Music,Middle-income,Remote
+742,16,Female,HUMSS,87.66,86.17,79.85,81.78,81.93,Arts,Engineering,Debate,Low-income,Field
+743,17,Male,ABM,88.44,86.16,87.98,84.36,94.94,History,Business,NSTP,High-income,Remote
+744,18,Male,TVL,77.46,89.92,75.29,76.79,93.92,English,Education,None,Low-income,Remote
+745,19,Male,TVL,92.84,90.33,87.65,89.21,91.44,Science,Arts,Sports,High-income,Remote
+746,19,Female,TVL,84.15,86.53,93.09,83.66,90.16,History,Science and Technology,Debate,Low-income,Field
+747,18,Female,ABM,86.79,88.49,91.41,80.21,75.24,History,Education,Debate,High-income,Remote
+748,19,Female,GAS,85.08,89.05,76.95,81.27,88.08,Math,Health and Medicine,Debate,Low-income,Field
+749,16,Female,HUMSS,94.28,83.54,87.22,94.57,94.79,History,Engineering,Sports,High-income,Remote
+750,19,Male,STEM,75.09,77.08,91.71,84.98,94.03,Arts,Arts,None,High-income,Remote
+751,16,Female,ABM,89.72,90.85,76.28,94.47,92.31,Science,Education,Debate,Middle-income,Field
+752,18,Female,GAS,86.06,86.0,91.35,80.62,79.55,History,Health and Medicine,None,Low-income,Remote
+753,18,Female,GAS,83.66,85.09,77.28,82.21,89.47,Science,Education,Debate,High-income,Field
+754,18,Female,STEM,86.7,88.15,86.9,83.6,79.2,Science,Farming and Forestry,Sports,High-income,Field
+755,16,Female,ABM,93.49,85.68,87.31,93.06,79.67,Math,Engineering,Sports,Low-income,Remote
+756,19,Male,GAS,90.62,87.0,76.26,80.26,86.74,English,Business,Debate,High-income,Office
+757,16,Male,TVL,93.2,93.67,79.05,91.59,86.05,Science,Education,NSTP,Low-income,Field
+758,19,Female,STEM,88.84,93.05,81.75,93.53,84.37,History,Education,Debate,Middle-income,Field
+759,19,Female,TVL,78.47,86.0,91.72,85.34,91.29,English,Farming and Forestry,None,Low-income,Field
+760,16,Male,STEM,91.3,94.94,89.76,83.72,81.81,Math,Science and Technology,NSTP,High-income,Field
+761,17,Female,HUMSS,77.07,91.9,83.04,78.3,76.72,Arts,Health and Medicine,NSTP,Middle-income,Field
+762,18,Female,HUMSS,88.15,83.25,77.42,89.74,91.92,Arts,Education,Debate,Middle-income,Office
+763,19,Male,ABM,87.12,87.66,88.68,84.83,83.58,Arts,Engineering,Debate,High-income,Field
+764,19,Female,GAS,81.44,91.52,85.92,94.0,93.84,Science,Engineering,Music,Low-income,Remote
+765,16,Female,TVL,92.63,81.47,81.43,86.11,83.35,English,Arts,NSTP,High-income,Field
+766,17,Female,GAS,83.37,79.81,94.29,93.46,83.77,Math,Farming and Forestry,NSTP,Low-income,Office
+767,18,Female,HUMSS,87.18,85.91,79.26,87.73,92.06,English,Engineering,Sports,High-income,Remote
+768,17,Female,TVL,88.85,82.5,75.91,83.8,75.6,Science,Education,Sports,Low-income,Remote
+769,18,Female,ABM,79.96,86.0,78.47,78.78,77.78,History,Health and Medicine,None,Middle-income,Office
+770,19,Male,GAS,82.96,89.89,76.26,76.09,92.48,Math,Education,Music,High-income,Remote
+771,19,Female,STEM,81.86,82.2,80.48,78.66,81.11,English,Arts,None,Low-income,Field
+772,16,Female,STEM,80.88,84.05,90.15,84.4,89.76,English,Education,NSTP,Low-income,Field
+773,16,Female,TVL,91.1,94.2,78.36,78.27,85.0,Arts,Business,None,High-income,Field
+774,17,Male,STEM,77.76,75.0,82.4,84.34,88.18,English,Engineering,Debate,Middle-income,Office
+775,17,Female,STEM,87.05,75.69,78.3,77.32,82.09,English,Business,NSTP,High-income,Remote
+776,18,Male,HUMSS,92.73,80.69,79.87,92.9,79.51,Science,Business,Sports,Low-income,Remote
+777,16,Female,ABM,85.25,75.33,86.64,84.9,83.51,Math,Science and Technology,Debate,Middle-income,Office
+778,19,Male,STEM,91.86,77.7,77.67,83.83,90.05,History,Education,Sports,Low-income,Remote
+779,16,Female,STEM,85.96,92.81,90.82,94.78,90.26,Arts,Arts,Sports,Middle-income,Field
+780,17,Female,GAS,81.28,75.13,87.64,86.22,88.81,Science,Farming and Forestry,Sports,Middle-income,Remote
+781,16,Female,TVL,89.74,94.69,82.52,84.16,80.99,English,Farming and Forestry,Sports,Middle-income,Field
+782,19,Female,HUMSS,86.07,79.3,78.16,77.25,86.74,History,Education,None,Low-income,Office
+783,16,Male,TVL,79.35,81.3,92.59,89.4,86.35,Math,Engineering,None,High-income,Office
+784,17,Male,GAS,79.19,90.43,76.61,77.96,75.64,Arts,Business,Sports,High-income,Remote
+785,19,Female,GAS,89.29,93.87,75.14,81.99,77.78,History,Education,NSTP,Low-income,Remote
+786,18,Female,GAS,88.73,91.45,93.52,79.07,94.54,Arts,Engineering,NSTP,Low-income,Field
+787,18,Male,STEM,93.42,93.38,89.13,80.68,94.89,Math,Science and Technology,Music,Low-income,Field
+788,19,Male,TVL,77.65,85.23,86.87,91.7,86.36,English,Arts,Music,Low-income,Field
+789,19,Male,TVL,89.21,86.41,80.67,90.0,90.98,Math,Education,Debate,High-income,Field
+790,19,Male,TVL,94.5,86.43,88.87,91.45,93.28,History,Arts,None,Low-income,Field
+791,17,Male,ABM,78.56,76.89,90.84,86.26,86.48,Arts,Farming and Forestry,NSTP,High-income,Remote
+792,19,Male,HUMSS,85.85,84.21,84.52,88.26,82.82,English,Arts,Music,Middle-income,Field
+793,17,Male,STEM,87.74,78.12,77.54,79.25,82.63,English,Business,Music,Middle-income,Office
+794,19,Male,HUMSS,89.21,80.3,77.86,94.96,93.97,English,Science and Technology,NSTP,Low-income,Office
+795,17,Male,STEM,90.22,92.79,80.42,75.08,76.27,Math,Engineering,NSTP,Low-income,Remote
+796,17,Female,TVL,86.25,80.0,84.01,90.34,82.73,Math,Science and Technology,Debate,Middle-income,Remote
+797,16,Female,ABM,86.66,80.12,79.79,78.61,84.5,English,Health and Medicine,NSTP,Middle-income,Office
+798,18,Female,ABM,93.85,81.01,78.49,93.41,81.58,Science,Education,NSTP,Low-income,Remote
+799,19,Male,TVL,89.2,86.41,88.83,79.92,94.24,Arts,Engineering,NSTP,Low-income,Field
+800,18,Male,HUMSS,88.48,86.38,86.93,84.96,87.78,English,Health and Medicine,Sports,High-income,Remote
+801,18,Male,GAS,92.88,79.35,89.34,76.89,81.09,Math,Business,Debate,High-income,Field
+802,16,Male,TVL,85.68,76.54,87.24,81.57,78.43,Math,Health and Medicine,Music,Low-income,Field
+803,18,Female,STEM,92.55,81.49,76.76,80.69,88.5,Arts,Education,NSTP,Low-income,Office
+804,18,Female,HUMSS,83.45,84.65,91.53,94.63,78.55,Arts,Education,Debate,Middle-income,Field
+805,19,Female,GAS,75.26,84.77,81.02,77.44,91.53,Science,Arts,None,High-income,Remote
+806,17,Male,ABM,77.13,92.98,83.38,82.47,87.07,Math,Engineering,NSTP,Low-income,Remote
+807,19,Female,STEM,82.62,89.06,86.15,93.58,75.54,History,Arts,Debate,Middle-income,Field
+808,19,Female,ABM,76.06,91.39,78.84,77.12,78.98,History,Health and Medicine,None,High-income,Office
+809,18,Female,STEM,76.13,76.91,94.73,81.47,93.23,Science,Engineering,Music,Middle-income,Field
+810,18,Male,GAS,80.34,87.85,94.54,75.58,82.72,Arts,Health and Medicine,Debate,Low-income,Remote
+811,19,Male,STEM,90.71,75.75,87.38,84.2,79.12,Math,Farming and Forestry,None,High-income,Office
+812,19,Male,GAS,94.67,91.17,92.25,89.15,80.82,Arts,Education,NSTP,Middle-income,Field
+813,18,Male,TVL,88.67,82.63,94.74,84.6,85.49,Math,Business,Debate,Low-income,Remote
+814,17,Male,TVL,77.93,90.6,85.15,87.57,84.09,Science,Business,Music,Low-income,Office
+815,17,Female,STEM,76.24,93.44,84.28,80.39,82.37,English,Farming and Forestry,Sports,Low-income,Office
+816,19,Male,HUMSS,90.69,81.69,87.53,88.16,75.22,Science,Arts,NSTP,High-income,Field
+817,17,Male,ABM,79.08,92.6,79.16,81.59,81.54,Arts,Engineering,NSTP,High-income,Office
+818,19,Female,STEM,85.82,83.69,76.06,75.88,93.2,Arts,Arts,Music,High-income,Office
+819,16,Female,STEM,82.17,93.6,77.25,87.45,82.82,English,Engineering,Debate,High-income,Office
+820,18,Male,ABM,84.05,77.41,77.98,84.06,94.79,English,Business,Sports,Middle-income,Remote
+821,19,Female,STEM,87.32,90.41,91.88,93.95,77.58,English,Education,Music,Low-income,Field
+822,19,Male,ABM,88.51,89.95,93.23,95.0,83.37,Arts,Engineering,None,Low-income,Office
+823,19,Male,GAS,86.24,91.99,84.95,93.14,89.86,Science,Business,None,High-income,Office
+824,17,Female,HUMSS,79.49,93.57,78.2,90.94,82.78,History,Health and Medicine,Sports,High-income,Remote
+825,19,Male,TVL,87.94,87.68,93.45,77.59,93.07,English,Farming and Forestry,Music,High-income,Field
+826,16,Female,TVL,82.78,87.64,76.08,92.27,79.13,Math,Education,None,Low-income,Remote
+827,17,Female,HUMSS,85.22,76.08,82.28,91.03,92.41,Arts,Health and Medicine,NSTP,Low-income,Field
+828,18,Female,ABM,90.94,85.49,79.19,80.66,81.2,Arts,Education,None,High-income,Field
+829,16,Female,HUMSS,88.92,81.39,80.03,90.96,91.36,Science,Science and Technology,Debate,High-income,Office
+830,19,Male,ABM,88.86,86.3,87.34,89.88,88.3,Science,Arts,Sports,Middle-income,Field
+831,16,Female,HUMSS,75.94,81.54,92.8,85.94,78.18,English,Farming and Forestry,Sports,Low-income,Remote
+832,19,Female,STEM,82.63,88.96,84.06,87.05,86.5,Arts,Business,Music,High-income,Field
+833,16,Male,STEM,83.33,78.06,77.09,76.85,81.21,Math,Arts,None,Middle-income,Field
+834,17,Male,HUMSS,90.76,88.47,76.05,80.1,79.06,English,Health and Medicine,Music,Middle-income,Field
+835,19,Female,GAS,88.7,94.95,85.75,79.8,89.34,Science,Engineering,NSTP,Middle-income,Remote
+836,17,Male,HUMSS,94.32,94.42,78.16,90.42,84.18,Math,Engineering,Sports,High-income,Office
+837,16,Female,TVL,76.08,90.06,75.58,82.98,79.03,Science,Education,Music,High-income,Remote
+838,19,Female,STEM,89.87,86.51,85.3,75.41,94.82,English,Business,Music,Low-income,Remote
+839,18,Male,HUMSS,79.06,76.8,76.42,79.16,83.91,Math,Health and Medicine,NSTP,Middle-income,Remote
+840,18,Male,TVL,92.38,83.64,79.71,82.77,91.49,Science,Business,Debate,Middle-income,Remote
+841,19,Female,STEM,92.21,90.73,83.9,83.05,87.1,Arts,Arts,NSTP,Middle-income,Field
+842,16,Female,GAS,83.86,77.96,86.6,87.94,79.94,Arts,Arts,NSTP,Low-income,Remote
+843,18,Male,GAS,79.51,81.72,83.38,94.09,81.58,English,Business,NSTP,Low-income,Remote
+844,19,Male,TVL,87.68,84.52,89.94,78.08,86.38,Math,Education,None,Middle-income,Remote
+845,18,Female,HUMSS,89.19,89.91,92.97,80.97,84.82,Science,Education,Sports,High-income,Field
+846,19,Female,STEM,82.35,85.96,79.6,91.02,84.25,Science,Education,None,High-income,Office
+847,16,Female,GAS,86.77,80.25,77.2,89.72,75.78,Arts,Science and Technology,None,Middle-income,Field
+848,16,Male,TVL,89.77,82.97,79.56,93.43,76.82,English,Farming and Forestry,None,Middle-income,Field
+849,17,Female,ABM,78.93,83.69,79.74,93.07,87.93,Math,Health and Medicine,Music,Middle-income,Field
+850,18,Male,HUMSS,89.5,88.96,83.25,87.07,93.38,Arts,Arts,Sports,Middle-income,Field
+851,17,Male,ABM,78.87,90.24,79.0,82.18,81.94,Arts,Farming and Forestry,Music,Low-income,Field
+852,16,Male,HUMSS,83.98,84.62,92.83,76.92,91.85,History,Education,None,Low-income,Office
+853,19,Female,STEM,94.67,78.96,76.47,82.35,90.85,Arts,Business,None,Middle-income,Office
+854,16,Female,TVL,76.49,82.91,86.7,79.0,82.82,Science,Farming and Forestry,Music,High-income,Field
+855,16,Male,STEM,94.25,86.43,76.09,83.91,91.47,English,Science and Technology,None,Middle-income,Field
+856,19,Male,ABM,89.7,86.22,83.72,82.76,92.0,Arts,Education,None,Middle-income,Office
+857,17,Female,TVL,77.39,94.94,79.32,80.37,83.3,History,Health and Medicine,NSTP,Middle-income,Remote
+858,18,Female,STEM,75.81,85.48,87.19,87.01,78.59,Arts,Engineering,Debate,High-income,Field
+859,16,Male,STEM,80.58,79.85,78.56,76.8,87.35,Science,Science and Technology,Debate,High-income,Field
+860,16,Female,STEM,80.28,80.33,82.47,83.45,83.64,Math,Health and Medicine,Debate,High-income,Remote
+861,18,Female,ABM,78.22,83.6,84.15,82.36,82.69,Math,Science and Technology,Sports,Low-income,Office
+862,16,Female,STEM,91.92,88.69,78.88,78.73,88.18,Math,Arts,Sports,Middle-income,Remote
+863,18,Female,GAS,75.11,86.52,82.17,87.61,88.97,Science,Engineering,Debate,Low-income,Office
+864,18,Male,HUMSS,84.33,77.25,80.39,76.86,76.91,Science,Farming and Forestry,Debate,Middle-income,Field
+865,18,Female,GAS,93.75,83.27,81.72,85.27,88.97,English,Farming and Forestry,NSTP,High-income,Remote
+866,19,Female,ABM,75.8,82.31,75.64,94.47,75.87,History,Science and Technology,NSTP,Middle-income,Remote
+867,17,Male,ABM,93.57,78.81,86.37,88.53,92.71,Math,Science and Technology,Music,Middle-income,Field
+868,17,Male,STEM,86.94,81.89,80.61,87.95,78.16,Science,Arts,Sports,High-income,Field
+869,19,Male,TVL,90.47,88.11,77.22,89.27,92.65,Math,Business,Sports,High-income,Field
+870,17,Female,GAS,87.51,90.39,84.31,93.61,85.75,English,Farming and Forestry,Debate,Low-income,Office
+871,17,Female,ABM,91.86,78.39,83.36,85.55,88.33,Arts,Health and Medicine,Sports,Middle-income,Remote
+872,17,Male,HUMSS,81.02,81.99,90.21,87.94,76.33,History,Farming and Forestry,NSTP,Low-income,Office
+873,16,Female,ABM,90.8,91.43,79.4,76.68,89.53,Math,Farming and Forestry,NSTP,High-income,Remote
+874,19,Female,GAS,86.0,91.06,80.9,84.36,93.04,Arts,Health and Medicine,Debate,Low-income,Office
+875,17,Male,HUMSS,76.46,87.46,78.14,76.58,93.17,Arts,Farming and Forestry,Debate,Middle-income,Office
+876,19,Female,HUMSS,89.15,83.81,90.89,91.03,83.23,English,Farming and Forestry,None,Low-income,Remote
+877,17,Female,STEM,85.51,93.48,94.06,81.01,90.24,English,Business,Music,Middle-income,Remote
+878,17,Male,TVL,94.14,79.67,93.11,94.68,77.42,Arts,Engineering,Debate,Middle-income,Remote
+879,19,Male,HUMSS,85.41,88.71,86.56,88.69,82.37,Math,Arts,Debate,Middle-income,Office
+880,18,Male,STEM,90.73,78.12,86.06,81.01,90.11,Arts,Education,Debate,High-income,Remote
+881,19,Female,TVL,78.19,89.57,79.59,79.97,85.09,Science,Arts,NSTP,Low-income,Remote
+882,18,Male,STEM,85.86,76.72,83.23,83.55,90.59,History,Education,Music,High-income,Remote
+883,16,Female,ABM,83.07,89.79,85.44,86.37,83.2,Science,Health and Medicine,None,Middle-income,Field
+884,19,Female,ABM,81.99,79.86,92.24,86.02,78.3,History,Business,Debate,Middle-income,Office
+885,18,Female,TVL,92.67,87.42,79.33,93.35,79.15,Science,Engineering,Sports,Low-income,Field
+886,17,Female,STEM,88.27,77.95,84.47,85.27,75.89,Science,Health and Medicine,Music,High-income,Remote
+887,16,Male,GAS,81.62,91.65,84.26,85.21,75.53,English,Farming and Forestry,Debate,Low-income,Office
+888,19,Male,STEM,80.87,80.75,75.29,83.26,87.78,Math,Education,NSTP,Low-income,Office
+889,18,Male,GAS,94.01,81.87,83.56,84.29,88.51,English,Business,NSTP,High-income,Remote
+890,18,Female,HUMSS,87.37,91.09,92.45,89.41,84.24,Science,Science and Technology,Sports,Low-income,Remote
+891,19,Female,HUMSS,84.5,81.1,79.96,91.26,81.87,Arts,Farming and Forestry,None,Low-income,Field
+892,18,Male,HUMSS,86.23,84.42,83.68,82.11,82.99,Science,Engineering,None,Middle-income,Remote
+893,19,Male,STEM,90.04,81.64,79.45,86.71,78.89,Arts,Education,Sports,High-income,Office
+894,18,Male,TVL,87.99,89.8,93.55,90.37,75.76,Math,Health and Medicine,Sports,Low-income,Field
+895,17,Male,GAS,77.29,79.24,93.93,75.33,80.01,History,Health and Medicine,Music,Low-income,Office
+896,19,Male,STEM,81.92,85.93,93.28,89.81,89.18,History,Arts,NSTP,Low-income,Remote
+897,19,Male,HUMSS,79.81,90.01,92.97,84.26,77.73,Science,Farming and Forestry,NSTP,Middle-income,Remote
+898,16,Female,ABM,87.85,85.98,83.36,90.72,88.41,Science,Education,Music,High-income,Remote
+899,17,Female,HUMSS,93.37,87.46,75.88,91.86,84.28,History,Farming and Forestry,Sports,Middle-income,Field
+900,19,Male,TVL,79.88,94.85,94.83,75.91,84.23,Science,Science and Technology,Sports,High-income,Remote
+901,18,Male,HUMSS,75.8,88.9,89.67,83.33,76.65,Science,Engineering,Sports,High-income,Remote
+902,18,Female,TVL,92.71,88.37,85.08,89.09,88.14,Math,Engineering,NSTP,High-income,Office
+903,18,Male,ABM,82.63,82.53,83.51,81.28,89.27,Science,Arts,None,Low-income,Office
+904,16,Female,GAS,90.92,93.12,82.89,89.48,83.75,Arts,Farming and Forestry,Sports,Low-income,Field
+905,19,Male,HUMSS,77.27,85.54,91.19,90.15,84.42,Math,Arts,Debate,Middle-income,Field
+906,18,Female,TVL,80.13,80.11,88.93,84.0,80.58,English,Education,None,Middle-income,Remote
+907,16,Male,GAS,89.48,76.2,76.96,91.16,78.23,Science,Farming and Forestry,Debate,Middle-income,Office
+908,16,Female,ABM,75.49,79.01,84.91,81.83,91.77,Science,Science and Technology,Debate,Middle-income,Office
+909,19,Female,TVL,85.34,88.93,76.66,93.36,87.14,Arts,Health and Medicine,Sports,High-income,Field
+910,18,Male,ABM,90.41,80.43,90.06,91.2,78.54,Math,Arts,Debate,Middle-income,Remote
+911,17,Female,ABM,85.29,84.3,88.86,79.22,77.48,History,Science and Technology,Sports,Low-income,Office
+912,18,Female,STEM,85.17,93.9,83.13,76.56,89.83,Science,Education,Debate,Low-income,Field
+913,17,Male,GAS,84.74,76.33,79.36,94.64,78.37,Math,Arts,Music,Middle-income,Office
+914,17,Female,STEM,80.93,88.21,82.17,80.19,88.43,Math,Business,NSTP,High-income,Field
+915,18,Female,ABM,88.03,88.26,79.78,88.47,75.22,Arts,Arts,None,High-income,Office
+916,17,Male,TVL,81.41,93.26,94.98,83.68,80.47,Arts,Arts,None,High-income,Office
+917,16,Male,HUMSS,76.65,82.2,75.32,75.36,83.81,History,Farming and Forestry,Debate,Middle-income,Office
+918,16,Male,STEM,76.92,77.16,88.38,82.9,78.56,English,Science and Technology,Music,Low-income,Remote
+919,18,Male,HUMSS,94.43,80.85,78.24,75.27,89.29,Science,Engineering,Sports,Middle-income,Field
+920,19,Female,STEM,90.47,92.67,84.19,88.12,92.85,Science,Business,None,High-income,Field
+921,16,Female,GAS,85.66,82.73,86.41,84.2,85.65,English,Health and Medicine,NSTP,Low-income,Office
+922,18,Male,HUMSS,87.54,94.6,86.67,83.1,83.84,Arts,Business,Sports,High-income,Remote
+923,17,Male,STEM,79.22,85.17,94.53,88.15,75.96,Arts,Engineering,Sports,Middle-income,Remote
+924,16,Male,ABM,87.59,89.19,84.28,89.88,87.7,Math,Business,None,High-income,Field
+925,18,Female,TVL,79.26,93.08,77.77,89.52,85.46,History,Business,NSTP,Middle-income,Office
+926,18,Male,ABM,88.71,84.69,89.06,81.06,88.25,Arts,Science and Technology,None,Middle-income,Office
+927,19,Female,GAS,91.71,86.94,78.7,91.26,88.2,Math,Health and Medicine,Music,High-income,Field
+928,17,Female,GAS,79.11,76.76,92.43,87.33,77.06,English,Health and Medicine,Music,Low-income,Remote
+929,17,Male,STEM,91.57,78.98,87.54,88.81,88.81,Math,Engineering,None,Middle-income,Remote
+930,17,Male,ABM,92.57,94.34,89.08,94.26,83.88,English,Farming and Forestry,None,Middle-income,Office
+931,18,Female,HUMSS,89.83,86.21,75.03,88.5,86.96,English,Education,Sports,High-income,Remote
+932,18,Female,STEM,83.7,89.25,87.55,91.09,75.97,English,Farming and Forestry,Debate,Middle-income,Field
+933,17,Female,STEM,91.34,75.8,82.7,76.75,82.55,English,Education,NSTP,High-income,Office
+934,18,Female,ABM,76.44,93.45,88.82,77.7,79.03,Arts,Education,NSTP,High-income,Office
+935,19,Female,TVL,88.72,81.1,85.62,78.82,79.99,Science,Education,NSTP,High-income,Field
+936,18,Female,GAS,75.48,84.8,80.93,91.32,93.18,English,Business,Debate,High-income,Remote
+937,18,Male,HUMSS,89.34,89.89,90.06,88.92,79.0,Math,Business,None,Low-income,Office
+938,16,Male,GAS,75.76,75.37,88.96,78.76,75.32,Science,Health and Medicine,Debate,Low-income,Office
+939,19,Female,STEM,76.46,88.69,87.25,75.54,75.56,Math,Science and Technology,Sports,Middle-income,Remote
+940,16,Male,TVL,78.56,82.11,86.5,84.62,75.29,Math,Education,None,High-income,Office
+941,17,Male,STEM,80.04,81.05,79.14,77.9,91.41,Math,Science and Technology,Music,Low-income,Remote
+942,17,Female,TVL,76.41,94.92,88.69,79.84,88.6,English,Health and Medicine,Debate,Middle-income,Remote
+943,19,Male,ABM,91.43,94.57,87.41,91.84,76.26,Science,Business,Debate,Low-income,Field
+944,18,Male,GAS,93.22,80.52,81.71,92.16,94.17,English,Engineering,NSTP,Low-income,Remote
+945,16,Male,STEM,83.15,76.24,93.64,85.77,76.93,Arts,Arts,Sports,Low-income,Field
+946,19,Male,TVL,84.02,80.15,85.29,76.72,91.71,English,Education,Debate,High-income,Field
+947,16,Female,TVL,83.09,82.74,93.2,90.39,88.28,History,Education,None,High-income,Office
+948,18,Female,STEM,81.33,95.0,82.28,77.96,89.48,Math,Business,None,Low-income,Field
+949,16,Female,GAS,82.79,94.81,76.03,83.44,75.88,Arts,Arts,Music,Low-income,Field
+950,19,Female,ABM,77.37,93.88,82.66,77.33,85.25,Science,Science and Technology,Debate,Low-income,Remote
+951,18,Male,ABM,75.12,93.98,84.31,93.05,91.31,English,Science and Technology,Sports,Middle-income,Remote
+952,18,Male,HUMSS,89.41,79.51,75.82,89.78,81.45,Arts,Arts,Music,Low-income,Office
+953,19,Female,HUMSS,76.26,81.84,82.33,83.91,87.54,English,Science and Technology,Music,Low-income,Remote
+954,18,Female,HUMSS,89.92,82.86,87.96,84.7,87.49,English,Education,NSTP,Middle-income,Remote
+955,16,Male,GAS,75.91,77.75,89.1,75.39,93.69,English,Education,Music,Middle-income,Remote
+956,17,Female,HUMSS,91.97,89.6,86.22,83.99,82.9,Math,Business,Debate,Low-income,Remote
+957,19,Male,HUMSS,82.15,85.41,90.47,79.85,83.56,Math,Health and Medicine,Sports,High-income,Remote
+958,16,Male,GAS,85.06,88.56,77.77,80.9,79.65,Math,Farming and Forestry,Music,High-income,Office
+959,18,Male,HUMSS,80.8,92.45,81.7,91.59,77.12,History,Farming and Forestry,Debate,Middle-income,Field
+960,17,Female,ABM,88.72,88.73,85.79,82.83,81.47,Science,Farming and Forestry,None,Low-income,Field
+961,16,Male,STEM,87.13,83.35,87.98,81.68,75.3,English,Education,None,High-income,Remote
+962,19,Male,ABM,80.63,86.46,89.75,77.05,88.08,English,Farming and Forestry,Sports,High-income,Office
+963,18,Male,ABM,93.53,83.53,90.05,91.95,75.24,English,Business,None,Middle-income,Field
+964,19,Male,TVL,82.63,81.25,92.42,83.64,79.26,History,Farming and Forestry,None,Middle-income,Field
+965,16,Male,STEM,91.44,87.11,89.06,83.31,79.4,History,Science and Technology,None,Low-income,Remote
+966,17,Male,ABM,75.62,83.98,90.06,84.91,88.16,History,Health and Medicine,Music,Middle-income,Office
+967,16,Female,STEM,78.13,77.64,90.22,86.57,80.57,English,Engineering,NSTP,Low-income,Field
+968,16,Male,ABM,79.4,88.05,81.41,89.62,87.48,Science,Engineering,None,Middle-income,Field
+969,18,Male,GAS,89.94,86.62,92.96,94.98,75.88,English,Health and Medicine,Debate,Middle-income,Remote
+970,19,Male,GAS,90.94,88.68,85.07,75.74,92.71,Science,Health and Medicine,None,High-income,Remote
+971,16,Female,HUMSS,91.99,79.05,83.46,82.99,83.22,History,Engineering,Debate,High-income,Remote
+972,16,Female,GAS,80.9,77.76,76.09,85.27,90.35,Arts,Engineering,None,Middle-income,Remote
+973,17,Male,STEM,87.68,88.77,82.46,89.49,84.99,Math,Farming and Forestry,NSTP,High-income,Field
+974,17,Male,TVL,80.96,92.97,84.05,93.71,94.81,Math,Engineering,Music,Middle-income,Field
+975,19,Male,HUMSS,92.74,93.19,85.03,93.1,89.25,Science,Science and Technology,Debate,High-income,Office
+976,19,Male,ABM,94.31,83.6,91.59,92.35,90.83,History,Education,Debate,Middle-income,Office
+977,18,Female,GAS,92.34,93.18,84.4,79.64,93.44,Math,Engineering,Music,High-income,Office
+978,19,Male,HUMSS,87.96,90.4,85.64,76.21,86.38,Math,Education,NSTP,High-income,Field
+979,17,Female,GAS,94.15,88.12,91.51,75.38,80.04,History,Farming and Forestry,Music,Low-income,Remote
+980,19,Female,HUMSS,75.22,86.3,92.99,86.53,76.89,Science,Health and Medicine,Sports,Low-income,Office
+981,16,Male,STEM,92.5,78.16,84.04,86.07,81.49,Science,Science and Technology,Music,Middle-income,Remote
+982,19,Female,STEM,77.83,76.36,82.36,80.36,87.62,Arts,Science and Technology,Debate,High-income,Office
+983,19,Male,ABM,75.84,85.66,88.47,87.97,82.77,Math,Engineering,Sports,High-income,Field
+984,18,Male,HUMSS,86.45,89.39,88.86,92.78,93.49,Math,Farming and Forestry,Sports,Low-income,Field
+985,16,Female,TVL,82.88,78.68,94.56,77.34,90.43,History,Education,None,High-income,Remote
+986,18,Female,STEM,85.95,91.79,92.66,87.45,77.66,History,Science and Technology,Music,High-income,Field
+987,17,Female,ABM,76.7,77.91,78.77,87.92,78.51,English,Science and Technology,Debate,Middle-income,Office
+988,19,Male,HUMSS,79.2,75.59,92.68,83.97,90.23,English,Health and Medicine,Sports,High-income,Office
+989,19,Male,ABM,89.83,81.37,76.75,83.72,88.75,Arts,Engineering,NSTP,High-income,Field
+990,17,Female,STEM,89.52,94.46,82.81,78.23,94.56,Science,Farming and Forestry,Debate,Middle-income,Office
+991,18,Female,ABM,79.23,94.22,78.58,89.52,88.33,History,Business,None,Middle-income,Field
+992,16,Male,HUMSS,93.11,81.07,94.17,84.38,76.35,Science,Health and Medicine,None,Middle-income,Office
+993,18,Female,GAS,92.03,89.91,76.54,83.76,75.35,Math,Education,Debate,Low-income,Field
+994,18,Female,TVL,77.85,91.43,78.3,85.15,93.24,Science,Arts,Music,Middle-income,Remote
+995,16,Female,STEM,78.68,87.74,77.24,86.75,83.98,Science,Arts,Debate,High-income,Remote
+996,19,Female,HUMSS,87.34,89.77,77.96,88.7,85.22,Arts,Health and Medicine,NSTP,High-income,Office
+997,18,Female,HUMSS,80.05,78.04,78.01,93.43,89.84,History,Education,None,Low-income,Field
+998,17,Male,ABM,77.29,78.76,79.09,92.07,85.07,English,Science and Technology,None,Low-income,Remote
+999,16,Female,STEM,88.42,77.63,94.04,89.3,89.09,History,Education,Debate,High-income,Field
+1000,19,Female,GAS,86.35,75.52,75.45,84.37,75.27,English,Engineering,None,High-income,Office
